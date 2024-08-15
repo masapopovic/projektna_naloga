@@ -4,7 +4,7 @@ Pri tej projektni nalogi bom analizirala spletno stran LaunchBox. To je spletna 
 
  Analizirala bom:
  - kakšna je povprečna ocena video iger,
- - kateri žanri iger dosegajo največje ocene in katerih žanrov je največ nasploh, 
+ - kateri žanri iger dosegajo največje ocene in katerih žanrov je največ, 
  - katera platforma ima največ iger, 
  - kateri izdajatelji so izdali največ iger in katere,
  - koliko iger je izšlo v posameznem letu
