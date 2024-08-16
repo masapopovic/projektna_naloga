@@ -6,7 +6,7 @@ from collections import OrderedDict
 
 
 
-#with open('spletne_strani/igra_1.html', encoding='utf-8') as file:
+#with open('spletne_strani/igra_307.html', encoding='utf-8') as file:
 #    prebrano = file.read()
 
 vzorec_igre_na_svoji_spletni_strani = re.compile(
@@ -25,14 +25,12 @@ vzorec_razvijalcev = re.compile(r'<h5 b-12vzocx8j4>Developers</h5>.*?(?P<razvija
                                 flags=re.DOTALL)
 vzorec_razvijalca = re.compile(r'<a href=".*?/(?P<kljuc_razvijalca>\d+?)-.*?">(?P<razvijalec>.*?)</a>',
                                               flags=re.DOTALL)
-vzorec_izdajateljev = re.compile(r'''<h5 b-12vzocx8j4>Publishers</h5>.*?(?P<izdajatelji>(?:<a href=".*?">.*?</a>\s*,?\s*
-                                 |
-                                 <p b-12vzocx8j4 class="no-info">No information available</p>\s*)+).*?''',
+vzorec_izdajateljev = re.compile(r'''<h5 b-12vzocx8j4>Publishers</h5>.*?(?P<izdajatelji>(?:<a href=".*?">.*?</a>\s*,?\s*|<p b-12vzocx8j4 class="no-info">No information available</p>\s*)+).*?''',
                                  flags=re.DOTALL)
 vzorec_izdajatelja = re.compile(r'<a href=".*?/(?P<kljuc_izdajatelja>\d+?)-.*?">(?P<izdajatelj>.*?)</a>',
                                               flags=re.DOTALL)
 
-#print(re.findall(vzorec_igre_na_svoji_spletni_strani, prebrano))
+#print(re.findall(vzorec_izdajateljev, prebrano))
 
 
 def pocisti_znake(besedilo):

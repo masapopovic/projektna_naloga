@@ -1,0 +1,3752 @@
+[
+    {
+        "kljuc_igre": 1,
+        "kljuc_razvijalca": 6661,
+        "razvijalec": "Bungie"
+    },
+    {
+        "kljuc_igre": 292,
+        "kljuc_razvijalca": 6662,
+        "razvijalec": "Crytek"
+    },
+    {
+        "kljuc_igre": 6908,
+        "kljuc_razvijalca": 6666,
+        "razvijalec": "Namco"
+    },
+    {
+        "kljuc_igre": 300,
+        "kljuc_razvijalca": 6668,
+        "razvijalec": "Ubisoft Montreal"
+    },
+    {
+        "kljuc_igre": 910,
+        "kljuc_razvijalca": 6669,
+        "razvijalec": "Irrational Games"
+    },
+    {
+        "kljuc_igre": 616,
+        "kljuc_razvijalca": 66610,
+        "razvijalec": "Visceral Games"
+    },
+    {
+        "kljuc_igre": 4545,
+        "kljuc_razvijalca": 66611,
+        "razvijalec": "Capcom"
+    },
+    {
+        "kljuc_igre": 15,
+        "kljuc_razvijalca": 66612,
+        "razvijalec": "Reflections Interactive"
+    },
+    {
+        "kljuc_igre": 35,
+        "kljuc_razvijalca": 66613,
+        "razvijalec": "Square Enix"
+    },
+    {
+        "kljuc_igre": 567,
+        "kljuc_razvijalca": 66614,
+        "razvijalec": "Squaresoft"
+    },
+    {
+        "kljuc_igre": 22,
+        "kljuc_razvijalca": 66617,
+        "razvijalec": "Clover Studio"
+    },
+    {
+        "kljuc_igre": 6314,
+        "kljuc_razvijalca": 66619,
+        "razvijalec": "Secret Level"
+    },
+    {
+        "kljuc_igre": 972,
+        "kljuc_razvijalca": 66620,
+        "razvijalec": "Codemasters"
+    },
+    {
+        "kljuc_igre": 26,
+        "kljuc_razvijalca": 66621,
+        "razvijalec": "Rockstar North"
+    },
+    {
+        "kljuc_igre": 6142,
+        "kljuc_razvijalca": 66623,
+        "razvijalec": "Ninja Theory"
+    },
+    {
+        "kljuc_igre": 177,
+        "kljuc_razvijalca": 66624,
+        "razvijalec": "BioWare"
+    },
+    {
+        "kljuc_igre": 31,
+        "kljuc_razvijalca": 66626,
+        "razvijalec": "Grasshopper Manufacture"
+    },
+    {
+        "kljuc_igre": 32,
+        "kljuc_razvijalca": 66627,
+        "razvijalec": "Guerrilla Games"
+    },
+    {
+        "kljuc_igre": 4843,
+        "kljuc_razvijalca": 66630,
+        "razvijalec": "Hudson Soft"
+    },
+    {
+        "kljuc_igre": 538,
+        "kljuc_razvijalca": 66631,
+        "razvijalec": "Konami"
+    },
+    {
+        "kljuc_igre": 42,
+        "kljuc_razvijalca": 66632,
+        "razvijalec": "Kojima Productions"
+    },
+    {
+        "kljuc_igre": 529,
+        "kljuc_razvijalca": 66636,
+        "razvijalec": "Team Ninja"
+    },
+    {
+        "kljuc_igre": 882,
+        "kljuc_razvijalca": 66637,
+        "razvijalec": "Ubisoft"
+    },
+    {
+        "kljuc_igre": 388,
+        "kljuc_razvijalca": 66642,
+        "razvijalec": "Iguana Entertainment"
+    },
+    {
+        "kljuc_igre": 4633,
+        "kljuc_razvijalca": 66643,
+        "razvijalec": "Naughty Dog"
+    },
+    {
+        "kljuc_igre": 69,
+        "kljuc_razvijalca": 66644,
+        "razvijalec": "Creative Assembly"
+    },
+    {
+        "kljuc_igre": 2189,
+        "kljuc_razvijalca": 66645,
+        "razvijalec": "Funcom"
+    },
+    {
+        "kljuc_igre": 1,
+        "kljuc_razvijalca": 66646,
+        "razvijalec": "Gearbox Software"
+    },
+    {
+        "kljuc_igre": 5715,
+        "kljuc_razvijalca": 66648,
+        "razvijalec": "Criterion Games"
+    },
+    {
+        "kljuc_igre": 19170,
+        "kljuc_razvijalca": 66649,
+        "razvijalec": "MercurySteam"
+    },
+    {
+        "kljuc_igre": 89,
+        "kljuc_razvijalca": 66651,
+        "razvijalec": "Electronic Arts Los Angeles"
+    },
+    {
+        "kljuc_igre": 83,
+        "kljuc_razvijalca": 66654,
+        "razvijalec": "Bethesda Game Studios"
+    },
+    {
+        "kljuc_igre": 6341,
+        "kljuc_razvijalca": 66657,
+        "razvijalec": "Bizarre Creations"
+    },
+    {
+        "kljuc_igre": 93,
+        "kljuc_razvijalca": 66658,
+        "razvijalec": "Radical Entertainment"
+    },
+    {
+        "kljuc_igre": 94,
+        "kljuc_razvijalca": 66659,
+        "razvijalec": "Insomniac Games"
+    },
+    {
+        "kljuc_igre": 623,
+        "kljuc_razvijalca": 66661,
+        "razvijalec": "Treyarch"
+    },
+    {
+        "kljuc_igre": 875,
+        "kljuc_razvijalca": 66662,
+        "razvijalec": "GSC Game World"
+    },
+    {
+        "kljuc_igre": 295,
+        "kljuc_razvijalca": 66666,
+        "razvijalec": "Relic"
+    },
+    {
+        "kljuc_igre": 3707,
+        "kljuc_razvijalca": 66668,
+        "razvijalec": "Sega"
+    },
+    {
+        "kljuc_igre": 2408,
+        "kljuc_razvijalca": 66678,
+        "razvijalec": "DMA Design"
+    },
+    {
+        "kljuc_igre": 887,
+        "kljuc_razvijalca": 66684,
+        "razvijalec": "Blizzard Entertainment"
+    },
+    {
+        "kljuc_igre": 145,
+        "kljuc_razvijalca": 66685,
+        "razvijalec": "Infinity Ward"
+    },
+    {
+        "kljuc_igre": 156,
+        "kljuc_razvijalca": 66690,
+        "razvijalec": "4A Games"
+    },
+    {
+        "kljuc_igre": 14348,
+        "kljuc_razvijalca": 66691,
+        "razvijalec": "Omega Force"
+    },
+    {
+        "kljuc_igre": 13518,
+        "kljuc_razvijalca": 66695,
+        "razvijalec": "Cyanide"
+    },
+    {
+        "kljuc_igre": 9464,
+        "kljuc_razvijalca": 66698,
+        "razvijalec": "Rocksteady Studios"
+    },
+    {
+        "kljuc_igre": 766,
+        "kljuc_razvijalca": 66699,
+        "razvijalec": "Rockstar Games"
+    },
+    {
+        "kljuc_igre": 3406,
+        "kljuc_razvijalca": 666104,
+        "razvijalec": "Data East"
+    },
+    {
+        "kljuc_igre": 12246,
+        "kljuc_razvijalca": 666106,
+        "razvijalec": "TOSE"
+    },
+    {
+        "kljuc_igre": 125373,
+        "kljuc_razvijalca": 666110,
+        "razvijalec": "SNK"
+    },
+    {
+        "kljuc_igre": 4033,
+        "kljuc_razvijalca": 666112,
+        "razvijalec": "Midway Games"
+    },
+    {
+        "kljuc_igre": 2295,
+        "kljuc_razvijalca": 666114,
+        "razvijalec": "Black Isle Studios"
+    },
+    {
+        "kljuc_igre": 235,
+        "kljuc_razvijalca": 666120,
+        "razvijalec": "Rare"
+    },
+    {
+        "kljuc_igre": 5982,
+        "kljuc_razvijalca": 666121,
+        "razvijalec": "Midway"
+    },
+    {
+        "kljuc_igre": 732,
+        "kljuc_razvijalca": 666128,
+        "razvijalec": "Electronic Arts"
+    },
+    {
+        "kljuc_igre": 378,
+        "kljuc_razvijalca": 666131,
+        "razvijalec": "Angel Studios"
+    },
+    {
+        "kljuc_igre": 33439,
+        "kljuc_razvijalca": 666140,
+        "razvijalec": "Acclaim Entertainment"
+    },
+    {
+        "kljuc_igre": 494,
+        "kljuc_razvijalca": 666147,
+        "razvijalec": "Realtime Associates"
+    },
+    {
+        "kljuc_igre": 5173,
+        "kljuc_razvijalca": 666149,
+        "razvijalec": "Bits Studios"
+    },
+    {
+        "kljuc_igre": 5192,
+        "kljuc_razvijalca": 666151,
+        "razvijalec": "Rebellion"
+    },
+    {
+        "kljuc_igre": 294,
+        "kljuc_razvijalca": 666152,
+        "razvijalec": "Obsidian Entertainment"
+    },
+    {
+        "kljuc_igre": 301,
+        "kljuc_razvijalca": 666155,
+        "razvijalec": "Quantic Dream"
+    },
+    {
+        "kljuc_igre": 1048,
+        "kljuc_razvijalca": 666158,
+        "razvijalec": "Software Creations"
+    },
+    {
+        "kljuc_igre": 223,
+        "kljuc_razvijalca": 666161,
+        "razvijalec": "Interplay Productions"
+    },
+    {
+        "kljuc_igre": 10764,
+        "kljuc_razvijalca": 666163,
+        "razvijalec": "Chunsoft"
+    },
+    {
+        "kljuc_igre": 5783,
+        "kljuc_razvijalca": 666171,
+        "razvijalec": "Tecmo"
+    },
+    {
+        "kljuc_igre": 31652,
+        "kljuc_razvijalca": 666174,
+        "razvijalec": "Activision"
+    },
+    {
+        "kljuc_igre": 737,
+        "kljuc_razvijalca": 666184,
+        "razvijalec": "id Software"
+    },
+    {
+        "kljuc_igre": 1038,
+        "kljuc_razvijalca": 666185,
+        "razvijalec": "Saffire"
+    },
+    {
+        "kljuc_igre": 5135,
+        "kljuc_razvijalca": 666190,
+        "razvijalec": "Luxoflux"
+    },
+    {
+        "kljuc_igre": 3410,
+        "kljuc_razvijalca": 666194,
+        "razvijalec": "Smilebit"
+    },
+    {
+        "kljuc_igre": 4524,
+        "kljuc_razvijalca": 666197,
+        "razvijalec": "Overworks"
+    },
+    {
+        "kljuc_igre": 7677,
+        "kljuc_razvijalca": 666199,
+        "razvijalec": "Genki"
+    },
+    {
+        "kljuc_igre": 14553,
+        "kljuc_razvijalca": 666203,
+        "razvijalec": "Koei"
+    },
+    {
+        "kljuc_igre": 12986,
+        "kljuc_razvijalca": 666213,
+        "razvijalec": "NuFX"
+    },
+    {
+        "kljuc_igre": 7655,
+        "kljuc_razvijalca": 666226,
+        "razvijalec": "Bethesda Softworks"
+    },
+    {
+        "kljuc_igre": 10865,
+        "kljuc_razvijalca": 666230,
+        "razvijalec": "Gremlin Interactive"
+    },
+    {
+        "kljuc_igre": 536,
+        "kljuc_razvijalca": 666231,
+        "razvijalec": "Crystal Dynamics"
+    },
+    {
+        "kljuc_igre": 472,
+        "kljuc_razvijalca": 666232,
+        "razvijalec": "Darkworks"
+    },
+    {
+        "kljuc_igre": 4515,
+        "kljuc_razvijalca": 666240,
+        "razvijalec": "Black Ops Entertainment"
+    },
+    {
+        "kljuc_igre": 11369,
+        "kljuc_razvijalca": 666244,
+        "razvijalec": "UEP Systems"
+    },
+    {
+        "kljuc_igre": 5974,
+        "kljuc_razvijalca": 666246,
+        "razvijalec": "N-Space"
+    },
+    {
+        "kljuc_igre": 509,
+        "kljuc_razvijalca": 666250,
+        "razvijalec": "Polygon Magic"
+    },
+    {
+        "kljuc_igre": 8582,
+        "kljuc_razvijalca": 666251,
+        "razvijalec": "Psygnosis"
+    },
+    {
+        "kljuc_igre": 3477,
+        "kljuc_razvijalca": 666256,
+        "razvijalec": "Climax Entertainment"
+    },
+    {
+        "kljuc_igre": 20775,
+        "kljuc_razvijalca": 666261,
+        "razvijalec": "Hexa Drive"
+    },
+    {
+        "kljuc_igre": 8976,
+        "kljuc_razvijalca": 666264,
+        "razvijalec": "Atlus"
+    },
+    {
+        "kljuc_igre": 13542,
+        "kljuc_razvijalca": 666273,
+        "razvijalec": "Sony Computer Entertainment"
+    },
+    {
+        "kljuc_igre": 11299,
+        "kljuc_razvijalca": 666277,
+        "razvijalec": "Any Channel"
+    },
+    {
+        "kljuc_igre": 574,
+        "kljuc_razvijalca": 666278,
+        "razvijalec": "Lobotomy Software"
+    },
+    {
+        "kljuc_igre": 3943,
+        "kljuc_razvijalca": 666280,
+        "razvijalec": "Red Storm Entertainment"
+    },
+    {
+        "kljuc_igre": 3118,
+        "kljuc_razvijalca": 666281,
+        "razvijalec": "Avalanche Software"
+    },
+    {
+        "kljuc_igre": 117819,
+        "kljuc_razvijalca": 666282,
+        "razvijalec": "Nippon Ichi Software"
+    },
+    {
+        "kljuc_igre": 6691,
+        "kljuc_razvijalca": 666283,
+        "razvijalec": "Neversoft"
+    },
+    {
+        "kljuc_igre": 622,
+        "kljuc_razvijalca": 666296,
+        "razvijalec": "Monolith Productions"
+    },
+    {
+        "kljuc_igre": 3959,
+        "kljuc_razvijalca": 666298,
+        "razvijalec": "Monolith"
+    },
+    {
+        "kljuc_igre": 71434,
+        "kljuc_razvijalca": 666299,
+        "razvijalec": "2K Games"
+    },
+    {
+        "kljuc_igre": 628,
+        "kljuc_razvijalca": 666311,
+        "razvijalec": "Sculptured Software"
+    },
+    {
+        "kljuc_igre": 739,
+        "kljuc_razvijalca": 666314,
+        "razvijalec": "Bullfrog Productions"
+    },
+    {
+        "kljuc_igre": 4848,
+        "kljuc_razvijalca": 666327,
+        "razvijalec": "Digital Pictures"
+    },
+    {
+        "kljuc_igre": 10440,
+        "kljuc_razvijalca": 666330,
+        "razvijalec": "Firaxis Games"
+    },
+    {
+        "kljuc_igre": 108,
+        "kljuc_razvijalca": 666331,
+        "razvijalec": "Relic Entertainment"
+    },
+    {
+        "kljuc_igre": 20,
+        "kljuc_razvijalca": 666332,
+        "razvijalec": "Epic Games"
+    },
+    {
+        "kljuc_igre": 5730,
+        "kljuc_razvijalca": 666334,
+        "razvijalec": "Digital Anvil"
+    },
+    {
+        "kljuc_igre": 4186,
+        "kljuc_razvijalca": 666335,
+        "razvijalec": "Massive Entertainment"
+    },
+    {
+        "kljuc_igre": 756,
+        "kljuc_razvijalca": 666336,
+        "razvijalec": "Remedy Entertainment"
+    },
+    {
+        "kljuc_igre": 758,
+        "kljuc_razvijalca": 666337,
+        "razvijalec": "Illusion Softworks"
+    },
+    {
+        "kljuc_igre": 769,
+        "kljuc_razvijalca": 666340,
+        "razvijalec": "Volition"
+    },
+    {
+        "kljuc_igre": 770,
+        "kljuc_razvijalca": 666341,
+        "razvijalec": "Croteam"
+    },
+    {
+        "kljuc_igre": 5779,
+        "kljuc_razvijalca": 666342,
+        "razvijalec": "Lionhead Studios"
+    },
+    {
+        "kljuc_igre": 792,
+        "kljuc_razvijalca": 666346,
+        "razvijalec": "Pandemic"
+    },
+    {
+        "kljuc_igre": 793,
+        "kljuc_razvijalca": 666347,
+        "razvijalec": "Raven"
+    },
+    {
+        "kljuc_igre": 7995,
+        "kljuc_razvijalca": 666351,
+        "razvijalec": "Blue Castle Games"
+    },
+    {
+        "kljuc_igre": 812,
+        "kljuc_razvijalca": 666355,
+        "razvijalec": "Techland"
+    },
+    {
+        "kljuc_igre": 3987,
+        "kljuc_razvijalca": 666356,
+        "razvijalec": "Terminal Reality"
+    },
+    {
+        "kljuc_igre": 5781,
+        "kljuc_razvijalca": 666357,
+        "razvijalec": "High Voltage Software"
+    },
+    {
+        "kljuc_igre": 818,
+        "kljuc_razvijalca": 666358,
+        "razvijalec": "GRIN"
+    },
+    {
+        "kljuc_igre": 4205,
+        "kljuc_razvijalca": 666360,
+        "razvijalec": "Ubisoft Shanghai"
+    },
+    {
+        "kljuc_igre": 622,
+        "kljuc_razvijalca": 666363,
+        "razvijalec": "TimeGate Studios"
+    },
+    {
+        "kljuc_igre": 5093,
+        "kljuc_razvijalca": 666364,
+        "razvijalec": "Deadline Games"
+    },
+    {
+        "kljuc_igre": 838,
+        "kljuc_razvijalca": 666369,
+        "razvijalec": "Mercury Steam"
+    },
+    {
+        "kljuc_igre": 840,
+        "kljuc_razvijalca": 666370,
+        "razvijalec": "Raven Software"
+    },
+    {
+        "kljuc_igre": 844,
+        "kljuc_razvijalca": 666372,
+        "razvijalec": "Replay Studios"
+    },
+    {
+        "kljuc_igre": 2482,
+        "kljuc_razvijalca": 666373,
+        "razvijalec": "Frozenbyte"
+    },
+    {
+        "kljuc_igre": 856,
+        "kljuc_razvijalca": 666375,
+        "razvijalec": "Vigil Games"
+    },
+    {
+        "kljuc_igre": 4037,
+        "kljuc_razvijalca": 666377,
+        "razvijalec": "Gas Powered Games"
+    },
+    {
+        "kljuc_igre": 5762,
+        "kljuc_razvijalca": 666383,
+        "razvijalec": "High Moon Studios"
+    },
+    {
+        "kljuc_igre": 884,
+        "kljuc_razvijalca": 666387,
+        "razvijalec": "People Can Fly"
+    },
+    {
+        "kljuc_igre": 7992,
+        "kljuc_razvijalca": 666390,
+        "razvijalec": "Eidos Montreal"
+    },
+    {
+        "kljuc_igre": 10305,
+        "kljuc_razvijalca": 666391,
+        "razvijalec": "Ubisoft Montpellier"
+    },
+    {
+        "kljuc_igre": 12001,
+        "kljuc_razvijalca": 666392,
+        "razvijalec": "WizarBox"
+    },
+    {
+        "kljuc_igre": 895,
+        "kljuc_razvijalca": 666393,
+        "razvijalec": "Amuze"
+    },
+    {
+        "kljuc_igre": 903,
+        "kljuc_razvijalca": 666396,
+        "razvijalec": "Klei Entertainment"
+    },
+    {
+        "kljuc_igre": 906,
+        "kljuc_razvijalca": 666397,
+        "razvijalec": "2K Czech"
+    },
+    {
+        "kljuc_igre": 7164,
+        "kljuc_razvijalca": 666399,
+        "razvijalec": "City Interactive"
+    },
+    {
+        "kljuc_igre": 5027,
+        "kljuc_razvijalca": 666403,
+        "razvijalec": "Beenox"
+    },
+    {
+        "kljuc_igre": 29239,
+        "kljuc_razvijalca": 666407,
+        "razvijalec": "3D Realms"
+    },
+    {
+        "kljuc_igre": 497,
+        "kljuc_razvijalca": 666409,
+        "razvijalec": "Probe Entertainment"
+    },
+    {
+        "kljuc_igre": 5107,
+        "kljuc_razvijalca": 666412,
+        "razvijalec": "Appaloosa Interactive"
+    },
+    {
+        "kljuc_igre": 2297,
+        "kljuc_razvijalca": 666419,
+        "razvijalec": "Probe Software"
+    },
+    {
+        "kljuc_igre": 2286,
+        "kljuc_razvijalca": 666442,
+        "razvijalec": "Human Entertainment"
+    },
+    {
+        "kljuc_igre": 4559,
+        "kljuc_razvijalca": 666460,
+        "razvijalec": "VIS Entertainment"
+    },
+    {
+        "kljuc_igre": 7731,
+        "kljuc_razvijalca": 666475,
+        "razvijalec": "Titus France"
+    },
+    {
+        "kljuc_igre": 5774,
+        "kljuc_razvijalca": 666480,
+        "razvijalec": "Vicarious Visions"
+    },
+    {
+        "kljuc_igre": 7661,
+        "kljuc_razvijalca": 666494,
+        "razvijalec": "Snowblind Studios"
+    },
+    {
+        "kljuc_igre": 12497,
+        "kljuc_razvijalca": 666497,
+        "razvijalec": "Eden Studios"
+    },
+    {
+        "kljuc_igre": 13059,
+        "kljuc_razvijalca": 666542,
+        "razvijalec": "Sir-Tech Software"
+    },
+    {
+        "kljuc_igre": 2330,
+        "kljuc_razvijalca": 666551,
+        "razvijalec": "Origin Systems"
+    },
+    {
+        "kljuc_igre": 1061,
+        "kljuc_razvijalca": 666552,
+        "razvijalec": "Eurocom Entertainment Software"
+    },
+    {
+        "kljuc_igre": 14898,
+        "kljuc_razvijalca": 666575,
+        "razvijalec": "Sumo Digital"
+    },
+    {
+        "kljuc_igre": 15750,
+        "kljuc_razvijalca": 666590,
+        "razvijalec": "Shiny Entertainment"
+    },
+    {
+        "kljuc_igre": 14133,
+        "kljuc_razvijalca": 666595,
+        "razvijalec": "Now Production"
+    },
+    {
+        "kljuc_igre": 11417,
+        "kljuc_razvijalca": 666624,
+        "razvijalec": "Mindscape"
+    },
+    {
+        "kljuc_igre": 11454,
+        "kljuc_razvijalca": 666627,
+        "razvijalec": "Grey Matter"
+    },
+    {
+        "kljuc_igre": 4435,
+        "kljuc_razvijalca": 666630,
+        "razvijalec": "Incredible Technologies"
+    },
+    {
+        "kljuc_igre": 4340,
+        "kljuc_razvijalca": 666693,
+        "razvijalec": "Sales Curve Interactive"
+    },
+    {
+        "kljuc_igre": 4540,
+        "kljuc_razvijalca": 666701,
+        "razvijalec": "Zipper Interactive"
+    },
+    {
+        "kljuc_igre": 1064,
+        "kljuc_razvijalca": 666704,
+        "razvijalec": "Acclaim Studios Salt Lake City"
+    },
+    {
+        "kljuc_igre": 3473,
+        "kljuc_razvijalca": 666729,
+        "razvijalec": "Jaleco Entertainment"
+    },
+    {
+        "kljuc_igre": 117548,
+        "kljuc_razvijalca": 666737,
+        "razvijalec": "Arc System Works"
+    },
+    {
+        "kljuc_igre": 10402,
+        "kljuc_razvijalca": 666738,
+        "razvijalec": "Hothead Games"
+    },
+    {
+        "kljuc_igre": 5713,
+        "kljuc_razvijalca": 666747,
+        "razvijalec": "Eutechnyx"
+    },
+    {
+        "kljuc_igre": 6980,
+        "kljuc_razvijalca": 666751,
+        "razvijalec": "Game Republic"
+    },
+    {
+        "kljuc_igre": 6872,
+        "kljuc_razvijalca": 666752,
+        "razvijalec": "Realtime Worlds"
+    },
+    {
+        "kljuc_igre": 11389,
+        "kljuc_razvijalca": 666753,
+        "razvijalec": "Millennium Interactive"
+    },
+    {
+        "kljuc_igre": 2160,
+        "kljuc_razvijalca": 666754,
+        "razvijalec": "JAM Productions"
+    },
+    {
+        "kljuc_igre": 8704,
+        "kljuc_razvijalca": 666765,
+        "razvijalec": "Big Huge Games"
+    },
+    {
+        "kljuc_igre": 117962,
+        "kljuc_razvijalca": 666773,
+        "razvijalec": "Inti Creates"
+    },
+    {
+        "kljuc_igre": 3743,
+        "kljuc_razvijalca": 666782,
+        "razvijalec": "WOW Entertainment"
+    },
+    {
+        "kljuc_igre": 380,
+        "kljuc_razvijalca": 666785,
+        "razvijalec": "Tantalus Interactive"
+    },
+    {
+        "kljuc_igre": 2117,
+        "kljuc_razvijalca": 666792,
+        "razvijalec": "Piranha Bytes"
+    },
+    {
+        "kljuc_igre": 2342,
+        "kljuc_razvijalca": 666793,
+        "razvijalec": "Kaos Studios"
+    },
+    {
+        "kljuc_igre": 21931,
+        "kljuc_razvijalca": 666796,
+        "razvijalec": "Bohemia Interactive Studio"
+    },
+    {
+        "kljuc_igre": 8729,
+        "kljuc_razvijalca": 666797,
+        "razvijalec": "Eden Games"
+    },
+    {
+        "kljuc_igre": 2465,
+        "kljuc_razvijalca": 666798,
+        "razvijalec": "DiCE"
+    },
+    {
+        "kljuc_igre": 10579,
+        "kljuc_razvijalca": 666802,
+        "razvijalec": "Sierra On-Line"
+    },
+    {
+        "kljuc_igre": 71735,
+        "kljuc_razvijalca": 666823,
+        "razvijalec": "Revolution Software"
+    },
+    {
+        "kljuc_igre": 2489,
+        "kljuc_razvijalca": 666824,
+        "razvijalec": "Frictional Games"
+    },
+    {
+        "kljuc_igre": 830,
+        "kljuc_razvijalca": 666832,
+        "razvijalec": "FromSoftware"
+    },
+    {
+        "kljuc_igre": 14918,
+        "kljuc_razvijalca": 666837,
+        "razvijalec": "Trion Worlds"
+    },
+    {
+        "kljuc_igre": 10483,
+        "kljuc_razvijalca": 666839,
+        "razvijalec": "Spicy Horse"
+    },
+    {
+        "kljuc_igre": 15639,
+        "kljuc_razvijalca": 666842,
+        "razvijalec": "Haemimont Games"
+    },
+    {
+        "kljuc_igre": 2481,
+        "kljuc_razvijalca": 666846,
+        "razvijalec": "8monkey Labs"
+    },
+    {
+        "kljuc_igre": 23275,
+        "kljuc_razvijalca": 666857,
+        "razvijalec": "Argonaut Software"
+    },
+    {
+        "kljuc_igre": 6996,
+        "kljuc_razvijalca": 666861,
+        "razvijalec": "Red Entertainment"
+    },
+    {
+        "kljuc_igre": 23243,
+        "kljuc_razvijalca": 666862,
+        "razvijalec": "Artech Digital Entertainment"
+    },
+    {
+        "kljuc_igre": 10187,
+        "kljuc_razvijalca": 666876,
+        "razvijalec": "Gray Matter"
+    },
+    {
+        "kljuc_igre": 1094,
+        "kljuc_razvijalca": 666883,
+        "razvijalec": "Kotobuki System"
+    },
+    {
+        "kljuc_igre": 2771,
+        "kljuc_razvijalca": 666897,
+        "razvijalec": "Raster"
+    },
+    {
+        "kljuc_igre": 3993,
+        "kljuc_razvijalca": 666914,
+        "razvijalec": "Pandemic Studios"
+    },
+    {
+        "kljuc_igre": 5304,
+        "kljuc_razvijalca": 666930,
+        "razvijalec": "Neverland"
+    },
+    {
+        "kljuc_igre": 17559,
+        "kljuc_razvijalca": 666933,
+        "razvijalec": "Next Level Games"
+    },
+    {
+        "kljuc_igre": 11798,
+        "kljuc_razvijalca": 666938,
+        "razvijalec": "Williams Entertainment"
+    },
+    {
+        "kljuc_igre": 5033,
+        "kljuc_razvijalca": 666941,
+        "razvijalec": "Aspyr"
+    },
+    {
+        "kljuc_igre": 8027,
+        "kljuc_razvijalca": 666948,
+        "razvijalec": "Interplay Entertainment"
+    },
+    {
+        "kljuc_igre": 12478,
+        "kljuc_razvijalca": 666959,
+        "razvijalec": "Visual Impact"
+    },
+    {
+        "kljuc_igre": 5625,
+        "kljuc_razvijalca": 666961,
+        "razvijalec": "Blitz Games"
+    },
+    {
+        "kljuc_igre": 6776,
+        "kljuc_razvijalca": 666969,
+        "razvijalec": "Griptonite Games"
+    },
+    {
+        "kljuc_igre": 7042,
+        "kljuc_razvijalca": 6661001,
+        "razvijalec": "7 Studios"
+    },
+    {
+        "kljuc_igre": 3580,
+        "kljuc_razvijalca": 6661017,
+        "razvijalec": "Digital Eclipse Software"
+    },
+    {
+        "kljuc_igre": 13302,
+        "kljuc_razvijalca": 6661029,
+        "razvijalec": "Red Storm"
+    },
+    {
+        "kljuc_igre": 3428,
+        "kljuc_razvijalca": 6661033,
+        "razvijalec": "343 Industries"
+    },
+    {
+        "kljuc_igre": 9273,
+        "kljuc_razvijalca": 6661045,
+        "razvijalec": "Capcom Production Studio 3"
+    },
+    {
+        "kljuc_igre": 3602,
+        "kljuc_razvijalca": 6661052,
+        "razvijalec": "Starbreeze Studios"
+    },
+    {
+        "kljuc_igre": 1094,
+        "kljuc_razvijalca": 6661053,
+        "razvijalec": "Ion Storm"
+    },
+    {
+        "kljuc_igre": 3668,
+        "kljuc_razvijalca": 6661071,
+        "razvijalec": "Day 1 Studios"
+    },
+    {
+        "kljuc_igre": 3692,
+        "kljuc_razvijalca": 6661081,
+        "razvijalec": "Vatra"
+    },
+    {
+        "kljuc_igre": 11556,
+        "kljuc_razvijalca": 6661082,
+        "razvijalec": "Access Games"
+    },
+    {
+        "kljuc_igre": 3706,
+        "kljuc_razvijalca": 6661086,
+        "razvijalec": "CS1 Team"
+    },
+    {
+        "kljuc_igre": 803,
+        "kljuc_razvijalca": 6661090,
+        "razvijalec": "Cavia"
+    },
+    {
+        "kljuc_igre": 3731,
+        "kljuc_razvijalca": 6661091,
+        "razvijalec": "Slant Six Games"
+    },
+    {
+        "kljuc_igre": 790,
+        "kljuc_razvijalca": 6661101,
+        "razvijalec": "Artoon"
+    },
+    {
+        "kljuc_igre": 3647,
+        "kljuc_razvijalca": 6661109,
+        "razvijalec": "Looking Glass Studios"
+    },
+    {
+        "kljuc_igre": 8059,
+        "kljuc_razvijalca": 6661110,
+        "razvijalec": "Neversoft Entertainment"
+    },
+    {
+        "kljuc_igre": 19,
+        "kljuc_razvijalca": 6661114,
+        "razvijalec": "Valve"
+    },
+    {
+        "kljuc_igre": 3981,
+        "kljuc_razvijalca": 6661117,
+        "razvijalec": "Sourcenext"
+    },
+    {
+        "kljuc_igre": 8104,
+        "kljuc_razvijalca": 6661127,
+        "razvijalec": "Spark Unlimited"
+    },
+    {
+        "kljuc_igre": 4754,
+        "kljuc_razvijalca": 6661130,
+        "razvijalec": "SEGA Interactive Development Division"
+    },
+    {
+        "kljuc_igre": 4196,
+        "kljuc_razvijalca": 6661155,
+        "razvijalec": "Mirage"
+    },
+    {
+        "kljuc_igre": 626,
+        "kljuc_razvijalca": 6661157,
+        "razvijalec": "Digital Extremes"
+    },
+    {
+        "kljuc_igre": 10866,
+        "kljuc_razvijalca": 6661164,
+        "razvijalec": "System Sacom"
+    },
+    {
+        "kljuc_igre": 4336,
+        "kljuc_razvijalca": 6661182,
+        "razvijalec": "Piranha Games"
+    },
+    {
+        "kljuc_igre": 4337,
+        "kljuc_razvijalca": 6661183,
+        "razvijalec": "Digitalo Studios"
+    },
+    {
+        "kljuc_igre": 7058,
+        "kljuc_razvijalca": 6661210,
+        "razvijalec": "The Collective"
+    },
+    {
+        "kljuc_igre": 9446,
+        "kljuc_razvijalca": 6661213,
+        "razvijalec": "Point of View"
+    },
+    {
+        "kljuc_igre": 4596,
+        "kljuc_razvijalca": 6661214,
+        "razvijalec": "Studio 3do"
+    },
+    {
+        "kljuc_igre": 4601,
+        "kljuc_razvijalca": 6661224,
+        "razvijalec": "Kirin Entertainment"
+    },
+    {
+        "kljuc_igre": 4603,
+        "kljuc_razvijalca": 6661225,
+        "razvijalec": "Imagexcel"
+    },
+    {
+        "kljuc_igre": 4699,
+        "kljuc_razvijalca": 6661243,
+        "razvijalec": "American Laser Games"
+    },
+    {
+        "kljuc_igre": 4715,
+        "kljuc_razvijalca": 6661249,
+        "razvijalec": "Headstrong Games"
+    },
+    {
+        "kljuc_igre": 6354,
+        "kljuc_razvijalca": 6661252,
+        "razvijalec": "Amaze Entertainment"
+    },
+    {
+        "kljuc_igre": 6605,
+        "kljuc_razvijalca": 6661261,
+        "razvijalec": "Other Ocean Interactive"
+    },
+    {
+        "kljuc_igre": 4980,
+        "kljuc_razvijalca": 6661286,
+        "razvijalec": "Human Head"
+    },
+    {
+        "kljuc_igre": 11814,
+        "kljuc_razvijalca": 6661289,
+        "razvijalec": "Telltale Games"
+    },
+    {
+        "kljuc_igre": 11945,
+        "kljuc_razvijalca": 6661294,
+        "razvijalec": "Electronic Arts Canada"
+    },
+    {
+        "kljuc_igre": 5036,
+        "kljuc_razvijalca": 6661298,
+        "razvijalec": "2015"
+    },
+    {
+        "kljuc_igre": 5030,
+        "kljuc_razvijalca": 6661308,
+        "razvijalec": "Rebellion Developments"
+    },
+    {
+        "kljuc_igre": 5100,
+        "kljuc_razvijalca": 6661309,
+        "razvijalec": "Argonaut Games"
+    },
+    {
+        "kljuc_igre": 5121,
+        "kljuc_razvijalca": 6661315,
+        "razvijalec": "Cranky Pants Games"
+    },
+    {
+        "kljuc_igre": 105,
+        "kljuc_razvijalca": 6661317,
+        "razvijalec": "Artificial Mind & Movement"
+    },
+    {
+        "kljuc_igre": 5136,
+        "kljuc_razvijalca": 6661319,
+        "razvijalec": "Volatile Games"
+    },
+    {
+        "kljuc_igre": 118169,
+        "kljuc_razvijalca": 6661320,
+        "razvijalec": "Backbone Entertainment"
+    },
+    {
+        "kljuc_igre": 5141,
+        "kljuc_razvijalca": 6661322,
+        "razvijalec": "Computer Artworks"
+    },
+    {
+        "kljuc_igre": 7130,
+        "kljuc_razvijalca": 6661324,
+        "razvijalec": "Konami Computer Entertainment Tokyo"
+    },
+    {
+        "kljuc_igre": 7732,
+        "kljuc_razvijalca": 6661334,
+        "razvijalec": "Bits Studio"
+    },
+    {
+        "kljuc_igre": 7279,
+        "kljuc_razvijalca": 6661343,
+        "razvijalec": "FASA Interactive"
+    },
+    {
+        "kljuc_igre": 5214,
+        "kljuc_razvijalca": 6661348,
+        "razvijalec": "Third Law Interactive"
+    },
+    {
+        "kljuc_igre": 10320,
+        "kljuc_razvijalca": 6661359,
+        "razvijalec": "The Creative Assembly"
+    },
+    {
+        "kljuc_igre": 11512,
+        "kljuc_razvijalca": 6661367,
+        "razvijalec": "TopWare Interactive"
+    },
+    {
+        "kljuc_igre": 2157,
+        "kljuc_razvijalca": 6661368,
+        "razvijalec": "Reality Pump Studios"
+    },
+    {
+        "kljuc_igre": 5317,
+        "kljuc_razvijalca": 6661375,
+        "razvijalec": "Brat Designs"
+    },
+    {
+        "kljuc_igre": 31,
+        "kljuc_razvijalca": 6661376,
+        "razvijalec": "Capcom Production Studio 4"
+    },
+    {
+        "kljuc_igre": 34319,
+        "kljuc_razvijalca": 6661377,
+        "razvijalec": "Hothouse Creations"
+    },
+    {
+        "kljuc_igre": 12007,
+        "kljuc_razvijalca": 6661390,
+        "razvijalec": "WayForward Technologies"
+    },
+    {
+        "kljuc_igre": 5156,
+        "kljuc_razvijalca": 6661407,
+        "razvijalec": "Kuju Entertainment"
+    },
+    {
+        "kljuc_igre": 17806,
+        "kljuc_razvijalca": 6661420,
+        "razvijalec": "Outrage Games"
+    },
+    {
+        "kljuc_igre": 11952,
+        "kljuc_razvijalca": 6661425,
+        "razvijalec": "Gust"
+    },
+    {
+        "kljuc_igre": 869,
+        "kljuc_razvijalca": 6661435,
+        "razvijalec": "Avalanche Studios"
+    },
+    {
+        "kljuc_igre": 5786,
+        "kljuc_razvijalca": 6661436,
+        "razvijalec": "Genuine Games"
+    },
+    {
+        "kljuc_igre": 5661,
+        "kljuc_razvijalca": 6661438,
+        "razvijalec": "Swordfish Studios"
+    },
+    {
+        "kljuc_igre": 5662,
+        "kljuc_razvijalca": 6661439,
+        "razvijalec": "Goshow"
+    },
+    {
+        "kljuc_igre": 5751,
+        "kljuc_razvijalca": 6661441,
+        "razvijalec": "Pivotal Games"
+    },
+    {
+        "kljuc_igre": 9264,
+        "kljuc_razvijalca": 6661443,
+        "razvijalec": "Z-Axis"
+    },
+    {
+        "kljuc_igre": 381,
+        "kljuc_razvijalca": 6661444,
+        "razvijalec": "Acclaim Studios Austin"
+    },
+    {
+        "kljuc_igre": 5611,
+        "kljuc_razvijalca": 6661446,
+        "razvijalec": "Creat Studios"
+    },
+    {
+        "kljuc_igre": 48533,
+        "kljuc_razvijalca": 6661448,
+        "razvijalec": "Playdead"
+    },
+    {
+        "kljuc_igre": 8248,
+        "kljuc_razvijalca": 6661451,
+        "razvijalec": "Planet Moon Studios"
+    },
+    {
+        "kljuc_igre": 5624,
+        "kljuc_razvijalca": 6661453,
+        "razvijalec": "Paradox Development"
+    },
+    {
+        "kljuc_igre": 5796,
+        "kljuc_razvijalca": 6661460,
+        "razvijalec": "Capcom Production Studio 2"
+    },
+    {
+        "kljuc_igre": 12203,
+        "kljuc_razvijalca": 6661465,
+        "razvijalec": "Human Head Studios"
+    },
+    {
+        "kljuc_igre": 6907,
+        "kljuc_razvijalca": 6661466,
+        "razvijalec": "WideScreen Games"
+    },
+    {
+        "kljuc_igre": 5833,
+        "kljuc_razvijalca": 6661478,
+        "razvijalec": "Hypnotix"
+    },
+    {
+        "kljuc_igre": 5929,
+        "kljuc_razvijalca": 6661490,
+        "razvijalec": "Wideload Games"
+    },
+    {
+        "kljuc_igre": 6765,
+        "kljuc_razvijalca": 6661492,
+        "razvijalec": "Free Radical Design"
+    },
+    {
+        "kljuc_igre": 5941,
+        "kljuc_razvijalca": 6661493,
+        "razvijalec": "Circle Studio"
+    },
+    {
+        "kljuc_igre": 8390,
+        "kljuc_razvijalca": 6661501,
+        "razvijalec": "Warthog"
+    },
+    {
+        "kljuc_igre": 7861,
+        "kljuc_razvijalca": 6661522,
+        "razvijalec": "Kaos"
+    },
+    {
+        "kljuc_igre": 9728,
+        "kljuc_razvijalca": 6661541,
+        "razvijalec": "Sierra"
+    },
+    {
+        "kljuc_igre": 30241,
+        "kljuc_razvijalca": 6661570,
+        "razvijalec": "Gameloft"
+    },
+    {
+        "kljuc_igre": 822,
+        "kljuc_razvijalca": 6661573,
+        "razvijalec": "Double Fine Productions"
+    },
+    {
+        "kljuc_igre": 6301,
+        "kljuc_razvijalca": 6661574,
+        "razvijalec": "Nihilistic Software"
+    },
+    {
+        "kljuc_igre": 16398,
+        "kljuc_razvijalca": 6661576,
+        "razvijalec": "Idea Factory"
+    },
+    {
+        "kljuc_igre": 7161,
+        "kljuc_razvijalca": 6661579,
+        "razvijalec": "SCE Studios San Diego"
+    },
+    {
+        "kljuc_igre": 963,
+        "kljuc_razvijalca": 6661583,
+        "razvijalec": "Saber Interactive"
+    },
+    {
+        "kljuc_igre": 12556,
+        "kljuc_razvijalca": 6661585,
+        "razvijalec": "Heavy Iron Studios"
+    },
+    {
+        "kljuc_igre": 7616,
+        "kljuc_razvijalca": 6661586,
+        "razvijalec": "Incognito Entertainment"
+    },
+    {
+        "kljuc_igre": 6357,
+        "kljuc_razvijalca": 6661588,
+        "razvijalec": "Team Bondi"
+    },
+    {
+        "kljuc_igre": 6358,
+        "kljuc_razvijalca": 6661589,
+        "razvijalec": "Eat Sleep Play"
+    },
+    {
+        "kljuc_igre": 6497,
+        "kljuc_razvijalca": 6661638,
+        "razvijalec": "Renegade Kid"
+    },
+    {
+        "kljuc_igre": 21652,
+        "kljuc_razvijalca": 6661649,
+        "razvijalec": "Most Wanted Entertainment"
+    },
+    {
+        "kljuc_igre": 7259,
+        "kljuc_razvijalca": 6661650,
+        "razvijalec": "Q Entertainment"
+    },
+    {
+        "kljuc_igre": 3709,
+        "kljuc_razvijalca": 6661673,
+        "razvijalec": "Silicon Knights"
+    },
+    {
+        "kljuc_igre": 6357,
+        "kljuc_razvijalca": 6661683,
+        "razvijalec": "Rockstar Leeds"
+    },
+    {
+        "kljuc_igre": 5647,
+        "kljuc_razvijalca": 6661711,
+        "razvijalec": "Ritual Entertainment"
+    },
+    {
+        "kljuc_igre": 7746,
+        "kljuc_razvijalca": 6661718,
+        "razvijalec": "Surreal Software"
+    },
+    {
+        "kljuc_igre": 618,
+        "kljuc_razvijalca": 6661719,
+        "razvijalec": "Nex Entertainment"
+    },
+    {
+        "kljuc_igre": 5786,
+        "kljuc_razvijalca": 6661725,
+        "razvijalec": "Visual Sciences"
+    },
+    {
+        "kljuc_igre": 3770,
+        "kljuc_razvijalca": 6661738,
+        "razvijalec": "Beyond Games"
+    },
+    {
+        "kljuc_igre": 2192,
+        "kljuc_razvijalca": 6661745,
+        "razvijalec": "Namco Hometek"
+    },
+    {
+        "kljuc_igre": 7046,
+        "kljuc_razvijalca": 6661753,
+        "razvijalec": "Warthog Games"
+    },
+    {
+        "kljuc_igre": 7153,
+        "kljuc_razvijalca": 6661774,
+        "razvijalec": "Team SOHO"
+    },
+    {
+        "kljuc_igre": 41135,
+        "kljuc_razvijalca": 6661776,
+        "razvijalec": "Sandlot"
+    },
+    {
+        "kljuc_igre": 7333,
+        "kljuc_razvijalca": 6661784,
+        "razvijalec": "Climax Studios"
+    },
+    {
+        "kljuc_igre": 7299,
+        "kljuc_razvijalca": 6661793,
+        "razvijalec": "Deep Silver Vienna"
+    },
+    {
+        "kljuc_igre": 18789,
+        "kljuc_razvijalca": 6661797,
+        "razvijalec": "Pipeworks Software"
+    },
+    {
+        "kljuc_igre": 11962,
+        "kljuc_razvijalca": 6661820,
+        "razvijalec": "Gaijin Entertainment"
+    },
+    {
+        "kljuc_igre": 11903,
+        "kljuc_razvijalca": 6661837,
+        "razvijalec": "inXile Entertainment"
+    },
+    {
+        "kljuc_igre": 11101,
+        "kljuc_razvijalca": 6661841,
+        "razvijalec": "Exor Studios"
+    },
+    {
+        "kljuc_igre": 4736,
+        "kljuc_razvijalca": 6661845,
+        "razvijalec": "Rockstar London"
+    },
+    {
+        "kljuc_igre": 115644,
+        "kljuc_razvijalca": 6661848,
+        "razvijalec": "Asobo Studio"
+    },
+    {
+        "kljuc_igre": 9070,
+        "kljuc_razvijalca": 6661851,
+        "razvijalec": "Eidetic"
+    },
+    {
+        "kljuc_igre": 7606,
+        "kljuc_razvijalca": 6661862,
+        "razvijalec": "Future Games"
+    },
+    {
+        "kljuc_igre": 11953,
+        "kljuc_razvijalca": 6661863,
+        "razvijalec": "Ubisoft Milan"
+    },
+    {
+        "kljuc_igre": 13523,
+        "kljuc_razvijalca": 6661872,
+        "razvijalec": "Tamsoft"
+    },
+    {
+        "kljuc_igre": 8188,
+        "kljuc_razvijalca": 6661874,
+        "razvijalec": "Headfirst Productions"
+    },
+    {
+        "kljuc_igre": 33113,
+        "kljuc_razvijalca": 6661875,
+        "razvijalec": "Light Weight"
+    },
+    {
+        "kljuc_igre": 7678,
+        "kljuc_razvijalca": 6661877,
+        "razvijalec": "Phantagram"
+    },
+    {
+        "kljuc_igre": 8815,
+        "kljuc_razvijalca": 6661881,
+        "razvijalec": "Hydravision"
+    },
+    {
+        "kljuc_igre": 9593,
+        "kljuc_razvijalca": 6661885,
+        "razvijalec": "Runecraft"
+    },
+    {
+        "kljuc_igre": 7844,
+        "kljuc_razvijalca": 6661905,
+        "razvijalec": "Danger Close"
+    },
+    {
+        "kljuc_igre": 20611,
+        "kljuc_razvijalca": 6661915,
+        "razvijalec": "Big Ape Productions"
+    },
+    {
+        "kljuc_igre": 12087,
+        "kljuc_razvijalca": 6661927,
+        "razvijalec": "Team17 Software"
+    },
+    {
+        "kljuc_igre": 3991,
+        "kljuc_razvijalca": 6661932,
+        "razvijalec": "Ubisoft Paris"
+    },
+    {
+        "kljuc_igre": 6901,
+        "kljuc_razvijalca": 6661942,
+        "razvijalec": "Telltale"
+    },
+    {
+        "kljuc_igre": 8083,
+        "kljuc_razvijalca": 6661946,
+        "razvijalec": "The Farm 51"
+    },
+    {
+        "kljuc_igre": 8097,
+        "kljuc_razvijalca": 6661952,
+        "razvijalec": "Creative Edge Studios"
+    },
+    {
+        "kljuc_igre": 8106,
+        "kljuc_razvijalca": 6661955,
+        "razvijalec": "Nicolas Games Intoxicate"
+    },
+    {
+        "kljuc_igre": 8114,
+        "kljuc_razvijalca": 6661956,
+        "razvijalec": "Teotl Studios"
+    },
+    {
+        "kljuc_igre": 807,
+        "kljuc_razvijalca": 6661958,
+        "razvijalec": "Mindware Studios"
+    },
+    {
+        "kljuc_igre": 8126,
+        "kljuc_razvijalca": 6661959,
+        "razvijalec": "Eggtooth Team"
+    },
+    {
+        "kljuc_igre": 8131,
+        "kljuc_razvijalca": 6661961,
+        "razvijalec": "Vogster Entertainment"
+    },
+    {
+        "kljuc_igre": 57,
+        "kljuc_razvijalca": 6661963,
+        "razvijalec": "Yuke's"
+    },
+    {
+        "kljuc_igre": 8209,
+        "kljuc_razvijalca": 6661978,
+        "razvijalec": "Deep Silver"
+    },
+    {
+        "kljuc_igre": 11180,
+        "kljuc_razvijalca": 6661979,
+        "razvijalec": "Sony Interactive Studios America"
+    },
+    {
+        "kljuc_igre": 8250,
+        "kljuc_razvijalca": 6661986,
+        "razvijalec": "Larian Studios"
+    },
+    {
+        "kljuc_igre": 19371,
+        "kljuc_razvijalca": 6661988,
+        "razvijalec": "Stunlock Studios"
+    },
+    {
+        "kljuc_igre": 10363,
+        "kljuc_razvijalca": 6662006,
+        "razvijalec": "Hidden Path Entertainment"
+    },
+    {
+        "kljuc_igre": 8455,
+        "kljuc_razvijalca": 6662013,
+        "razvijalec": "Phenomic"
+    },
+    {
+        "kljuc_igre": 4983,
+        "kljuc_razvijalca": 6662020,
+        "razvijalec": "Cauldron Ltd."
+    },
+    {
+        "kljuc_igre": 8558,
+        "kljuc_razvijalca": 6662030,
+        "razvijalec": "Kylotonn"
+    },
+    {
+        "kljuc_igre": 13533,
+        "kljuc_razvijalca": 6662035,
+        "razvijalec": "Targem Games"
+    },
+    {
+        "kljuc_igre": 8626,
+        "kljuc_razvijalca": 6662048,
+        "razvijalec": "Rogue Entertainment"
+    },
+    {
+        "kljuc_igre": 8651,
+        "kljuc_razvijalca": 6662056,
+        "razvijalec": "Paleo Entertainment"
+    },
+    {
+        "kljuc_igre": 182,
+        "kljuc_razvijalca": 6662075,
+        "razvijalec": "Rockstar San Diego"
+    },
+    {
+        "kljuc_igre": 8732,
+        "kljuc_razvijalca": 6662084,
+        "razvijalec": "Hydravision Entertainment"
+    },
+    {
+        "kljuc_igre": 5760,
+        "kljuc_razvijalca": 6662092,
+        "razvijalec": "Asylum Entertainment"
+    },
+    {
+        "kljuc_igre": 19464,
+        "kljuc_razvijalca": 6662094,
+        "razvijalec": "Conspiracy Entertainment"
+    },
+    {
+        "kljuc_igre": 8816,
+        "kljuc_razvijalca": 6662108,
+        "razvijalec": "Ubisoft Tiwak"
+    },
+    {
+        "kljuc_igre": 8820,
+        "kljuc_razvijalca": 6662109,
+        "razvijalec": "Pterodon"
+    },
+    {
+        "kljuc_igre": 8970,
+        "kljuc_razvijalca": 6662142,
+        "razvijalec": "D-Dub"
+    },
+    {
+        "kljuc_igre": 8980,
+        "kljuc_razvijalca": 6662143,
+        "razvijalec": "07th Expansion"
+    },
+    {
+        "kljuc_igre": 12164,
+        "kljuc_razvijalca": 6662151,
+        "razvijalec": "Yager Development"
+    },
+    {
+        "kljuc_igre": 12355,
+        "kljuc_razvijalca": 6662153,
+        "razvijalec": "Zombie Studios"
+    },
+    {
+        "kljuc_igre": 43912,
+        "kljuc_razvijalca": 6662158,
+        "razvijalec": "The Chinese Room"
+    },
+    {
+        "kljuc_igre": 90505,
+        "kljuc_razvijalca": 6662166,
+        "razvijalec": "Pendulo Studios"
+    },
+    {
+        "kljuc_igre": 9066,
+        "kljuc_razvijalca": 6662171,
+        "razvijalec": "Asylum Studios"
+    },
+    {
+        "kljuc_igre": 13993,
+        "kljuc_razvijalca": 6662180,
+        "razvijalec": "Haggard Games"
+    },
+    {
+        "kljuc_igre": 9098,
+        "kljuc_razvijalca": 6662182,
+        "razvijalec": "Trapdoor"
+    },
+    {
+        "kljuc_igre": 746,
+        "kljuc_razvijalca": 6662216,
+        "razvijalec": "Crytek Studios"
+    },
+    {
+        "kljuc_igre": 11138,
+        "kljuc_razvijalca": 6662218,
+        "razvijalec": "Mesa Logic"
+    },
+    {
+        "kljuc_igre": 9335,
+        "kljuc_razvijalca": 6662241,
+        "razvijalec": "Topheavy"
+    },
+    {
+        "kljuc_igre": 12296,
+        "kljuc_razvijalca": 6662250,
+        "razvijalec": "Bungie Studios"
+    },
+    {
+        "kljuc_igre": 9410,
+        "kljuc_razvijalca": 6662254,
+        "razvijalec": "BottleRocket Entertainment"
+    },
+    {
+        "kljuc_igre": 68005,
+        "kljuc_razvijalca": 6662265,
+        "razvijalec": "Opus"
+    },
+    {
+        "kljuc_igre": 11961,
+        "kljuc_razvijalca": 6662276,
+        "razvijalec": "Ryu ga Gotoku Studio"
+    },
+    {
+        "kljuc_igre": 9657,
+        "kljuc_razvijalca": 6662321,
+        "razvijalec": "Refraction Games"
+    },
+    {
+        "kljuc_igre": 5717,
+        "kljuc_razvijalca": 6662322,
+        "razvijalec": "Mucky Foot Productions"
+    },
+    {
+        "kljuc_igre": 16343,
+        "kljuc_razvijalca": 6662333,
+        "razvijalec": "Cyclone Studios"
+    },
+    {
+        "kljuc_igre": 9740,
+        "kljuc_razvijalca": 6662341,
+        "razvijalec": "Strategic Simulations"
+    },
+    {
+        "kljuc_igre": 30033,
+        "kljuc_razvijalca": 6662375,
+        "razvijalec": "The 8th Day"
+    },
+    {
+        "kljuc_igre": 11215,
+        "kljuc_razvijalca": 6662402,
+        "razvijalec": "Massive Development"
+    },
+    {
+        "kljuc_igre": 9995,
+        "kljuc_razvijalca": 6662403,
+        "razvijalec": "United Front Games"
+    },
+    {
+        "kljuc_igre": 9998,
+        "kljuc_razvijalca": 6662405,
+        "razvijalec": "Ubisoft Toronto"
+    },
+    {
+        "kljuc_igre": 6476,
+        "kljuc_razvijalca": 6662406,
+        "razvijalec": "NetherRealm Studios"
+    },
+    {
+        "kljuc_igre": 10128,
+        "kljuc_razvijalca": 6662418,
+        "razvijalec": "GOD Games"
+    },
+    {
+        "kljuc_igre": 7806,
+        "kljuc_razvijalca": 6662423,
+        "razvijalec": "Warp"
+    },
+    {
+        "kljuc_igre": 9428,
+        "kljuc_razvijalca": 6662426,
+        "razvijalec": "Spike"
+    },
+    {
+        "kljuc_igre": 4208,
+        "kljuc_razvijalca": 6662427,
+        "razvijalec": "Metropolis Software"
+    },
+    {
+        "kljuc_igre": 34433,
+        "kljuc_razvijalca": 6662438,
+        "razvijalec": "11 bit studios"
+    },
+    {
+        "kljuc_igre": 3753,
+        "kljuc_razvijalca": 6662448,
+        "razvijalec": "Epic Megagames"
+    },
+    {
+        "kljuc_igre": 10443,
+        "kljuc_razvijalca": 6662450,
+        "razvijalec": "Arkane Studios"
+    },
+    {
+        "kljuc_igre": 10343,
+        "kljuc_razvijalca": 6662462,
+        "razvijalec": "Four Leaf Studios"
+    },
+    {
+        "kljuc_igre": 913,
+        "kljuc_razvijalca": 6662468,
+        "razvijalec": "CD Projekt RED"
+    },
+    {
+        "kljuc_igre": 10401,
+        "kljuc_razvijalca": 6662477,
+        "razvijalec": "Coreplay GmbH"
+    },
+    {
+        "kljuc_igre": 33051,
+        "kljuc_razvijalca": 6662484,
+        "razvijalec": "Housemarque"
+    },
+    {
+        "kljuc_igre": 5395,
+        "kljuc_razvijalca": 6662485,
+        "razvijalec": "Troika Games"
+    },
+    {
+        "kljuc_igre": 18959,
+        "kljuc_razvijalca": 6662486,
+        "razvijalec": "Airtight Games"
+    },
+    {
+        "kljuc_igre": 10481,
+        "kljuc_razvijalca": 6662496,
+        "razvijalec": "Parsec Productions"
+    },
+    {
+        "kljuc_igre": 2353,
+        "kljuc_razvijalca": 6662499,
+        "razvijalec": "Bohemia Interactive"
+    },
+    {
+        "kljuc_igre": 10493,
+        "kljuc_razvijalca": 6662500,
+        "razvijalec": "2 Dawn Games"
+    },
+    {
+        "kljuc_igre": 46101,
+        "kljuc_razvijalca": 6662516,
+        "razvijalec": "Sunstorm Interactive"
+    },
+    {
+        "kljuc_igre": 10593,
+        "kljuc_razvijalca": 6662522,
+        "razvijalec": "Rockstar Vancouver"
+    },
+    {
+        "kljuc_igre": 10697,
+        "kljuc_razvijalca": 6662534,
+        "razvijalec": "DONTNOD Entertainment"
+    },
+    {
+        "kljuc_igre": 10711,
+        "kljuc_razvijalca": 6662537,
+        "razvijalec": "Grinding Gear Games"
+    },
+    {
+        "kljuc_igre": 12960,
+        "kljuc_razvijalca": 6662556,
+        "razvijalec": "Success"
+    },
+    {
+        "kljuc_igre": 124745,
+        "kljuc_razvijalca": 6662560,
+        "razvijalec": "GungHo Online Entertainment"
+    },
+    {
+        "kljuc_igre": 528,
+        "kljuc_razvijalca": 6662562,
+        "razvijalec": "PlatinumGames"
+    },
+    {
+        "kljuc_igre": 11111,
+        "kljuc_razvijalca": 6662601,
+        "razvijalec": "Hoplite Research"
+    },
+    {
+        "kljuc_igre": 11185,
+        "kljuc_razvijalca": 6662612,
+        "razvijalec": "Tequila Works"
+    },
+    {
+        "kljuc_igre": 107,
+        "kljuc_razvijalca": 6662623,
+        "razvijalec": "Black Hole Entertainment"
+    },
+    {
+        "kljuc_igre": 1141,
+        "kljuc_razvijalca": 6662629,
+        "razvijalec": "Kalisto Entertainment"
+    },
+    {
+        "kljuc_igre": 7764,
+        "kljuc_razvijalca": 6662643,
+        "razvijalec": "EXAKT Entertainment"
+    },
+    {
+        "kljuc_igre": 14133,
+        "kljuc_razvijalca": 6662672,
+        "razvijalec": "Team Tachyon"
+    },
+    {
+        "kljuc_igre": 11519,
+        "kljuc_razvijalca": 6662674,
+        "razvijalec": "Zombie"
+    },
+    {
+        "kljuc_igre": 12441,
+        "kljuc_razvijalca": 6662680,
+        "razvijalec": "Liquid Entertainment"
+    },
+    {
+        "kljuc_igre": 11626,
+        "kljuc_razvijalca": 6662697,
+        "razvijalec": "Ruffian Games"
+    },
+    {
+        "kljuc_igre": 125249,
+        "kljuc_razvijalca": 6662699,
+        "razvijalec": "Shade"
+    },
+    {
+        "kljuc_igre": 12306,
+        "kljuc_razvijalca": 6662716,
+        "razvijalec": "Sacnoth"
+    },
+    {
+        "kljuc_igre": 11790,
+        "kljuc_razvijalca": 6662725,
+        "razvijalec": "Synthetic Dimensions"
+    },
+    {
+        "kljuc_igre": 26245,
+        "kljuc_razvijalca": 6662741,
+        "razvijalec": "Ubisoft Sofia"
+    },
+    {
+        "kljuc_igre": 87177,
+        "kljuc_razvijalca": 6662746,
+        "razvijalec": "Compile Heart"
+    },
+    {
+        "kljuc_igre": 9863,
+        "kljuc_razvijalca": 6662748,
+        "razvijalec": "Acquire"
+    },
+    {
+        "kljuc_igre": 12067,
+        "kljuc_razvijalca": 6662754,
+        "razvijalec": "Rockstar Toronto"
+    },
+    {
+        "kljuc_igre": 12709,
+        "kljuc_razvijalca": 6662759,
+        "razvijalec": "Sidhe Interactive"
+    },
+    {
+        "kljuc_igre": 7324,
+        "kljuc_razvijalca": 6662762,
+        "razvijalec": "Tiger Hill Entertainment"
+    },
+    {
+        "kljuc_igre": 9004,
+        "kljuc_razvijalca": 6662773,
+        "razvijalec": "Yager"
+    },
+    {
+        "kljuc_igre": 51,
+        "kljuc_razvijalca": 6662786,
+        "razvijalec": "Ubisoft Entertainment"
+    },
+    {
+        "kljuc_igre": 16374,
+        "kljuc_razvijalca": 6662787,
+        "razvijalec": "Spiders"
+    },
+    {
+        "kljuc_igre": 7282,
+        "kljuc_razvijalca": 6662794,
+        "razvijalec": "Cauldron"
+    },
+    {
+        "kljuc_igre": 7722,
+        "kljuc_razvijalca": 6662831,
+        "razvijalec": "Brainbox Games"
+    },
+    {
+        "kljuc_igre": 18918,
+        "kljuc_razvijalca": 6662843,
+        "razvijalec": "K2 LLC"
+    },
+    {
+        "kljuc_igre": 11991,
+        "kljuc_razvijalca": 6662844,
+        "razvijalec": "AQ Interactive"
+    },
+    {
+        "kljuc_igre": 12760,
+        "kljuc_razvijalca": 6662853,
+        "razvijalec": "House of Tales"
+    },
+    {
+        "kljuc_igre": 31242,
+        "kljuc_razvijalca": 6662866,
+        "razvijalec": "Reality Pump"
+    },
+    {
+        "kljuc_igre": 14900,
+        "kljuc_razvijalca": 6662871,
+        "razvijalec": "Kung Fu Factory"
+    },
+    {
+        "kljuc_igre": 11262,
+        "kljuc_razvijalca": 6662892,
+        "razvijalec": "Double Helix Games"
+    },
+    {
+        "kljuc_igre": 13001,
+        "kljuc_razvijalca": 6662895,
+        "razvijalec": "Illusion Software"
+    },
+    {
+        "kljuc_igre": 2437,
+        "kljuc_razvijalca": 6662898,
+        "razvijalec": "Ascaron Entertainment"
+    },
+    {
+        "kljuc_igre": 13432,
+        "kljuc_razvijalca": 6662908,
+        "razvijalec": "Frogwares"
+    },
+    {
+        "kljuc_igre": 13319,
+        "kljuc_razvijalca": 6662947,
+        "razvijalec": "Nixxes Software"
+    },
+    {
+        "kljuc_igre": 8,
+        "kljuc_razvijalca": 6662948,
+        "razvijalec": "Electronic Arts Montreal"
+    },
+    {
+        "kljuc_igre": 4206,
+        "kljuc_razvijalca": 6662953,
+        "razvijalec": "Ubi Soft Montreal"
+    },
+    {
+        "kljuc_igre": 13348,
+        "kljuc_razvijalca": 6662959,
+        "razvijalec": "Telltale Inc."
+    },
+    {
+        "kljuc_igre": 12866,
+        "kljuc_razvijalca": 6662961,
+        "razvijalec": "Marvelous AQL"
+    },
+    {
+        "kljuc_igre": 10705,
+        "kljuc_razvijalca": 6662964,
+        "razvijalec": "feelplus"
+    },
+    {
+        "kljuc_igre": 13437,
+        "kljuc_razvijalca": 6662968,
+        "razvijalec": "Monolith Studios"
+    },
+    {
+        "kljuc_igre": 23127,
+        "kljuc_razvijalca": 6662974,
+        "razvijalec": "Dennaton Games"
+    },
+    {
+        "kljuc_igre": 3327,
+        "kljuc_razvijalca": 6662975,
+        "razvijalec": "Microids"
+    },
+    {
+        "kljuc_igre": 100802,
+        "kljuc_razvijalca": 6663031,
+        "razvijalec": "TNT Team"
+    },
+    {
+        "kljuc_igre": 13797,
+        "kljuc_razvijalca": 6663033,
+        "razvijalec": "Touchdown Entertainment"
+    },
+    {
+        "kljuc_igre": 13834,
+        "kljuc_razvijalca": 6663039,
+        "razvijalec": "Heuristic Park"
+    },
+    {
+        "kljuc_igre": 13969,
+        "kljuc_razvijalca": 6663050,
+        "razvijalec": "Enlight Software"
+    },
+    {
+        "kljuc_igre": 13897,
+        "kljuc_razvijalca": 6663055,
+        "razvijalec": "Crazy Games"
+    },
+    {
+        "kljuc_igre": 14053,
+        "kljuc_razvijalca": 6663082,
+        "razvijalec": "Rebel Act Studios"
+    },
+    {
+        "kljuc_igre": 14117,
+        "kljuc_razvijalca": 6663093,
+        "razvijalec": "Blueside"
+    },
+    {
+        "kljuc_igre": 5572,
+        "kljuc_razvijalca": 6663095,
+        "razvijalec": "Colossal Pictures"
+    },
+    {
+        "kljuc_igre": 10215,
+        "kljuc_razvijalca": 6663106,
+        "razvijalec": "Metropolis Software House"
+    },
+    {
+        "kljuc_igre": 79350,
+        "kljuc_razvijalca": 6663178,
+        "razvijalec": "Digital Reality"
+    },
+    {
+        "kljuc_igre": 13368,
+        "kljuc_razvijalca": 6663192,
+        "razvijalec": "Hyde"
+    },
+    {
+        "kljuc_igre": 112128,
+        "kljuc_razvijalca": 6663198,
+        "razvijalec": "Certain Affinity"
+    },
+    {
+        "kljuc_igre": 15199,
+        "kljuc_razvijalca": 6663225,
+        "razvijalec": "Unknown Worlds Entertainment"
+    },
+    {
+        "kljuc_igre": 626,
+        "kljuc_razvijalca": 6663230,
+        "razvijalec": "2K China"
+    },
+    {
+        "kljuc_igre": 7743,
+        "kljuc_razvijalca": 6663234,
+        "razvijalec": "MC2-Microïds"
+    },
+    {
+        "kljuc_igre": 18558,
+        "kljuc_razvijalca": 6663235,
+        "razvijalec": "Spike ChunSoft"
+    },
+    {
+        "kljuc_igre": 8259,
+        "kljuc_razvijalca": 6663261,
+        "razvijalec": "Cyanide Studios"
+    },
+    {
+        "kljuc_igre": 15862,
+        "kljuc_razvijalca": 6663266,
+        "razvijalec": "Ratloop"
+    },
+    {
+        "kljuc_igre": 5312,
+        "kljuc_razvijalca": 6663273,
+        "razvijalec": "Sega AM1"
+    },
+    {
+        "kljuc_igre": 29239,
+        "kljuc_razvijalca": 6663274,
+        "razvijalec": "General Arcade"
+    },
+    {
+        "kljuc_igre": 16077,
+        "kljuc_razvijalca": 6663276,
+        "razvijalec": "Insomniac"
+    },
+    {
+        "kljuc_igre": 922,
+        "kljuc_razvijalca": 6663311,
+        "razvijalec": "Tripwire Interactive"
+    },
+    {
+        "kljuc_igre": 72228,
+        "kljuc_razvijalca": 6663351,
+        "razvijalec": "Team GrisGris"
+    },
+    {
+        "kljuc_igre": 33048,
+        "kljuc_razvijalca": 6663357,
+        "razvijalec": "Torn Banner Studios"
+    },
+    {
+        "kljuc_igre": 32814,
+        "kljuc_razvijalca": 6663358,
+        "razvijalec": "Fatshark"
+    },
+    {
+        "kljuc_igre": 3752,
+        "kljuc_razvijalca": 6663369,
+        "razvijalec": "Legend Entertainment"
+    },
+    {
+        "kljuc_igre": 16482,
+        "kljuc_razvijalca": 6663375,
+        "razvijalec": "Bossa Studios"
+    },
+    {
+        "kljuc_igre": 29289,
+        "kljuc_razvijalca": 6663376,
+        "razvijalec": "Machinegames"
+    },
+    {
+        "kljuc_igre": 8107,
+        "kljuc_razvijalca": 6663400,
+        "razvijalec": "Overkill Software"
+    },
+    {
+        "kljuc_igre": 33872,
+        "kljuc_razvijalca": 6663435,
+        "razvijalec": "Undead Labs"
+    },
+    {
+        "kljuc_igre": 16728,
+        "kljuc_razvijalca": 6663449,
+        "razvijalec": "Respawn Entertainment"
+    },
+    {
+        "kljuc_igre": 626,
+        "kljuc_razvijalca": 6663491,
+        "razvijalec": "2K Marin"
+    },
+    {
+        "kljuc_igre": 17038,
+        "kljuc_razvijalca": 6663530,
+        "razvijalec": "Deep Shadows"
+    },
+    {
+        "kljuc_igre": 16342,
+        "kljuc_razvijalca": 6663541,
+        "razvijalec": "Old School Games"
+    },
+    {
+        "kljuc_igre": 8914,
+        "kljuc_razvijalca": 6663547,
+        "razvijalec": "Running With Scissors"
+    },
+    {
+        "kljuc_igre": 809,
+        "kljuc_razvijalca": 6663556,
+        "razvijalec": "Project Siren"
+    },
+    {
+        "kljuc_igre": 5276,
+        "kljuc_razvijalca": 6663570,
+        "razvijalec": "Flying Wild Hog"
+    },
+    {
+        "kljuc_igre": 417,
+        "kljuc_razvijalca": 6663577,
+        "razvijalec": "Reloaded Productions"
+    },
+    {
+        "kljuc_igre": 76322,
+        "kljuc_razvijalca": 6663581,
+        "razvijalec": "Red Barrels"
+    },
+    {
+        "kljuc_igre": 17303,
+        "kljuc_razvijalca": 6663598,
+        "razvijalec": "ZootFly"
+    },
+    {
+        "kljuc_igre": 33873,
+        "kljuc_razvijalca": 6663602,
+        "razvijalec": "CI Games"
+    },
+    {
+        "kljuc_igre": 17392,
+        "kljuc_razvijalca": 6663624,
+        "razvijalec": "369 Interactive"
+    },
+    {
+        "kljuc_igre": 23648,
+        "kljuc_razvijalca": 6663644,
+        "razvijalec": "Konami Digital Entertainment"
+    },
+    {
+        "kljuc_igre": 8881,
+        "kljuc_razvijalca": 6663664,
+        "razvijalec": "Xatrix Entertainment"
+    },
+    {
+        "kljuc_igre": 17627,
+        "kljuc_razvijalca": 6663665,
+        "razvijalec": "Hipnotic Interactive"
+    },
+    {
+        "kljuc_igre": 68288,
+        "kljuc_razvijalca": 6663677,
+        "razvijalec": "Abstraction Games"
+    },
+    {
+        "kljuc_igre": 122273,
+        "kljuc_razvijalca": 6663703,
+        "razvijalec": "3909"
+    },
+    {
+        "kljuc_igre": 26638,
+        "kljuc_razvijalca": 6663763,
+        "razvijalec": "Saibot Studios"
+    },
+    {
+        "kljuc_igre": 88913,
+        "kljuc_razvijalca": 6663788,
+        "razvijalec": "Tango gameworks"
+    },
+    {
+        "kljuc_igre": 27778,
+        "kljuc_razvijalca": 6663836,
+        "razvijalec": "Centauri Production"
+    },
+    {
+        "kljuc_igre": 18830,
+        "kljuc_razvijalca": 6663914,
+        "razvijalec": "Guerrilla Cambridge"
+    },
+    {
+        "kljuc_igre": 40,
+        "kljuc_razvijalca": 6663916,
+        "razvijalec": "Konami Computer Entertainment Japan"
+    },
+    {
+        "kljuc_igre": 3729,
+        "kljuc_razvijalca": 6663935,
+        "razvijalec": "Capcom Production Studio 1"
+    },
+    {
+        "kljuc_igre": 18961,
+        "kljuc_razvijalca": 6663949,
+        "razvijalec": "Heavy Spectrum"
+    },
+    {
+        "kljuc_igre": 10803,
+        "kljuc_razvijalca": 6664000,
+        "razvijalec": "Cyberlore Studios"
+    },
+    {
+        "kljuc_igre": 19193,
+        "kljuc_razvijalca": 6664014,
+        "razvijalec": "Sony Computer Entertainment America"
+    },
+    {
+        "kljuc_igre": 3758,
+        "kljuc_razvijalca": 6664114,
+        "razvijalec": "Hand Made Software"
+    },
+    {
+        "kljuc_igre": 12474,
+        "kljuc_razvijalca": 6664160,
+        "razvijalec": "DreamCatcher Interactive"
+    },
+    {
+        "kljuc_igre": 7845,
+        "kljuc_razvijalca": 6664173,
+        "razvijalec": "Turtle Rock Studios"
+    },
+    {
+        "kljuc_igre": 5754,
+        "kljuc_razvijalca": 6664175,
+        "razvijalec": "Barking Dog Studios"
+    },
+    {
+        "kljuc_igre": 16305,
+        "kljuc_razvijalca": 6664182,
+        "razvijalec": "Velez & Dubail"
+    },
+    {
+        "kljuc_igre": 6601,
+        "kljuc_razvijalca": 6664188,
+        "razvijalec": "DREAM ON STUDIO"
+    },
+    {
+        "kljuc_igre": 73689,
+        "kljuc_razvijalca": 6664191,
+        "razvijalec": "Koei Tecmo Games"
+    },
+    {
+        "kljuc_igre": 117825,
+        "kljuc_razvijalca": 6664221,
+        "razvijalec": "C's Ware"
+    },
+    {
+        "kljuc_igre": 113105,
+        "kljuc_razvijalca": 6664254,
+        "razvijalec": "Ska Studios"
+    },
+    {
+        "kljuc_igre": 2488,
+        "kljuc_razvijalca": 6664339,
+        "razvijalec": "Sledgehammer Games"
+    },
+    {
+        "kljuc_igre": 16544,
+        "kljuc_razvijalca": 6664444,
+        "razvijalec": "Acclaim Studios Manchester"
+    },
+    {
+        "kljuc_igre": 21700,
+        "kljuc_razvijalca": 6664458,
+        "razvijalec": "stage-nana"
+    },
+    {
+        "kljuc_igre": 91500,
+        "kljuc_razvijalca": 6664513,
+        "razvijalec": "New World Interactive"
+    },
+    {
+        "kljuc_igre": 54355,
+        "kljuc_razvijalca": 6664579,
+        "razvijalec": "Free Lives"
+    },
+    {
+        "kljuc_igre": 22294,
+        "kljuc_razvijalca": 6664597,
+        "razvijalec": "The Astronauts"
+    },
+    {
+        "kljuc_igre": 16395,
+        "kljuc_razvijalca": 6664602,
+        "razvijalec": "5pb."
+    },
+    {
+        "kljuc_igre": 3587,
+        "kljuc_razvijalca": 6664681,
+        "razvijalec": "3D Realms Entertainment"
+    },
+    {
+        "kljuc_igre": 22775,
+        "kljuc_razvijalca": 6664722,
+        "razvijalec": "Warner Bros. Interactive Entertainment"
+    },
+    {
+        "kljuc_igre": 9650,
+        "kljuc_razvijalca": 6664746,
+        "razvijalec": "Atod"
+    },
+    {
+        "kljuc_igre": 115178,
+        "kljuc_razvijalca": 6664804,
+        "razvijalec": "Cyanide Studio"
+    },
+    {
+        "kljuc_igre": 23269,
+        "kljuc_razvijalca": 6664807,
+        "razvijalec": "Genterprise"
+    },
+    {
+        "kljuc_igre": 90111,
+        "kljuc_razvijalca": 6664809,
+        "razvijalec": "Turmoil Games"
+    },
+    {
+        "kljuc_igre": 9467,
+        "kljuc_razvijalca": 6664810,
+        "razvijalec": "Coyote Developments"
+    },
+    {
+        "kljuc_igre": 72656,
+        "kljuc_razvijalca": 6664827,
+        "razvijalec": "Mimimi Productions"
+    },
+    {
+        "kljuc_igre": 23603,
+        "kljuc_razvijalca": 6664870,
+        "razvijalec": "War Drum Studios"
+    },
+    {
+        "kljuc_igre": 11984,
+        "kljuc_razvijalca": 6664955,
+        "razvijalec": "TBC"
+    },
+    {
+        "kljuc_igre": 24231,
+        "kljuc_razvijalca": 6664970,
+        "razvijalec": "Digital Confectioners"
+    },
+    {
+        "kljuc_igre": 6477,
+        "kljuc_razvijalca": 6665013,
+        "razvijalec": "Code Mystics"
+    },
+    {
+        "kljuc_igre": 23,
+        "kljuc_razvijalca": 6665028,
+        "razvijalec": "SCE Santa Monica Studio"
+    },
+    {
+        "kljuc_igre": 24931,
+        "kljuc_razvijalca": 6665090,
+        "razvijalec": "Click Entertainment"
+    },
+    {
+        "kljuc_igre": 4664,
+        "kljuc_razvijalca": 6665091,
+        "razvijalec": "Sega of America"
+    },
+    {
+        "kljuc_igre": 9696,
+        "kljuc_razvijalca": 6665096,
+        "razvijalec": "Tragnarion Studios"
+    },
+    {
+        "kljuc_igre": 7750,
+        "kljuc_razvijalca": 6665112,
+        "razvijalec": "K2 (Japan)"
+    },
+    {
+        "kljuc_igre": 16019,
+        "kljuc_razvijalca": 6665131,
+        "razvijalec": "Demiurge Studios"
+    },
+    {
+        "kljuc_igre": 89159,
+        "kljuc_razvijalca": 6665182,
+        "razvijalec": "Ubisoft San Francisco"
+    },
+    {
+        "kljuc_igre": 3921,
+        "kljuc_razvijalca": 6665247,
+        "razvijalec": "Stalker Entertainment"
+    },
+    {
+        "kljuc_igre": 34003,
+        "kljuc_razvijalca": 6665302,
+        "razvijalec": "Santa Monica Studio"
+    },
+    {
+        "kljuc_igre": 15569,
+        "kljuc_razvijalca": 6665321,
+        "razvijalec": "Valhalla Game Studio"
+    },
+    {
+        "kljuc_igre": 8835,
+        "kljuc_razvijalca": 6665334,
+        "razvijalec": "Creature Labs"
+    },
+    {
+        "kljuc_igre": 17903,
+        "kljuc_razvijalca": 6665336,
+        "razvijalec": "Creative Reality"
+    },
+    {
+        "kljuc_igre": 73995,
+        "kljuc_razvijalca": 6665502,
+        "razvijalec": "Alice Soft"
+    },
+    {
+        "kljuc_igre": 11274,
+        "kljuc_razvijalca": 6665558,
+        "razvijalec": "Kronos Digital Entertainment"
+    },
+    {
+        "kljuc_igre": 87282,
+        "kljuc_razvijalca": 6665591,
+        "razvijalec": "Deck13 Interactive"
+    },
+    {
+        "kljuc_igre": 15781,
+        "kljuc_razvijalca": 6665607,
+        "razvijalec": "Teyon"
+    },
+    {
+        "kljuc_igre": 119171,
+        "kljuc_razvijalca": 6665752,
+        "razvijalec": "Winged Cloud"
+    },
+    {
+        "kljuc_igre": 30607,
+        "kljuc_razvijalca": 6665793,
+        "razvijalec": "Nitroplus"
+    },
+    {
+        "kljuc_igre": 15818,
+        "kljuc_razvijalca": 6665830,
+        "razvijalec": "Cavia Inc."
+    },
+    {
+        "kljuc_igre": 6347,
+        "kljuc_razvijalca": 6665897,
+        "razvijalec": "Psyonix"
+    },
+    {
+        "kljuc_igre": 34434,
+        "kljuc_razvijalca": 6666044,
+        "razvijalec": "Straight Right"
+    },
+    {
+        "kljuc_igre": 8103,
+        "kljuc_razvijalca": 6666103,
+        "razvijalec": "KTX Software"
+    },
+    {
+        "kljuc_igre": 44102,
+        "kljuc_razvijalca": 6666194,
+        "razvijalec": "Fujicom"
+    },
+    {
+        "kljuc_igre": 14285,
+        "kljuc_razvijalca": 6666202,
+        "razvijalec": "Activision Publishing"
+    },
+    {
+        "kljuc_igre": 31870,
+        "kljuc_razvijalca": 6666203,
+        "razvijalec": "Critical Force Entertainment"
+    },
+    {
+        "kljuc_igre": 6909,
+        "kljuc_razvijalca": 6666233,
+        "razvijalec": "AKI"
+    },
+    {
+        "kljuc_igre": 32181,
+        "kljuc_razvijalca": 6666264,
+        "razvijalec": "The Coalition"
+    },
+    {
+        "kljuc_igre": 33408,
+        "kljuc_razvijalca": 6666499,
+        "razvijalec": "Spilt Milk Studios"
+    },
+    {
+        "kljuc_igre": 12169,
+        "kljuc_razvijalca": 6666599,
+        "razvijalec": "Bluepoint Games"
+    },
+    {
+        "kljuc_igre": 117898,
+        "kljuc_razvijalca": 6666606,
+        "razvijalec": "MidBoss"
+    },
+    {
+        "kljuc_igre": 33933,
+        "kljuc_razvijalca": 6666626,
+        "razvijalec": "Offworld industries"
+    },
+    {
+        "kljuc_igre": 34325,
+        "kljuc_razvijalca": 6666700,
+        "razvijalec": "Lockwood Publishing"
+    },
+    {
+        "kljuc_igre": 34792,
+        "kljuc_razvijalca": 6666773,
+        "razvijalec": "BaseSon"
+    },
+    {
+        "kljuc_igre": 73100,
+        "kljuc_razvijalca": 6666811,
+        "razvijalec": "THE BROTHERHOOD"
+    },
+    {
+        "kljuc_igre": 56291,
+        "kljuc_razvijalca": 6667108,
+        "razvijalec": "Hangar 13"
+    },
+    {
+        "kljuc_igre": 5198,
+        "kljuc_razvijalca": 6667140,
+        "razvijalec": "FASA Studio"
+    },
+    {
+        "kljuc_igre": 10,
+        "kljuc_razvijalca": 6667168,
+        "razvijalec": "2K Australia"
+    },
+    {
+        "kljuc_igre": 57704,
+        "kljuc_razvijalca": 6667169,
+        "razvijalec": "Blind Squirrel"
+    },
+    {
+        "kljuc_igre": 10,
+        "kljuc_razvijalca": 6667172,
+        "razvijalec": "2K Boston"
+    },
+    {
+        "kljuc_igre": 59025,
+        "kljuc_razvijalca": 6667217,
+        "razvijalec": "Question"
+    },
+    {
+        "kljuc_igre": 17769,
+        "kljuc_razvijalca": 6667224,
+        "razvijalec": "Crate Entertainment"
+    },
+    {
+        "kljuc_igre": 4206,
+        "kljuc_razvijalca": 6667260,
+        "razvijalec": "Ubi Soft Milan"
+    },
+    {
+        "kljuc_igre": 11484,
+        "kljuc_razvijalca": 6667283,
+        "razvijalec": "Nerve Software"
+    },
+    {
+        "kljuc_igre": 7730,
+        "kljuc_razvijalca": 6667426,
+        "razvijalec": "Digital Mayhem"
+    },
+    {
+        "kljuc_igre": 112431,
+        "kljuc_razvijalca": 6667643,
+        "razvijalec": "Pinokl Games"
+    },
+    {
+        "kljuc_igre": 117896,
+        "kljuc_razvijalca": 6667697,
+        "razvijalec": "Ink Stains Games"
+    },
+    {
+        "kljuc_igre": 850,
+        "kljuc_razvijalca": 6667719,
+        "razvijalec": "Namco Bandai Games"
+    },
+    {
+        "kljuc_igre": 3953,
+        "kljuc_razvijalca": 6667789,
+        "razvijalec": "Nightdive Studios"
+    },
+    {
+        "kljuc_igre": 12866,
+        "kljuc_razvijalca": 6667798,
+        "razvijalec": "Comcept"
+    },
+    {
+        "kljuc_igre": 9503,
+        "kljuc_razvijalca": 6667914,
+        "razvijalec": "Devil's Details"
+    },
+    {
+        "kljuc_igre": 71456,
+        "kljuc_razvijalca": 6667976,
+        "razvijalec": "Le Cartel Studio"
+    },
+    {
+        "kljuc_igre": 16450,
+        "kljuc_razvijalca": 6668108,
+        "razvijalec": "ZeniMax Online Studios"
+    },
+    {
+        "kljuc_igre": 72853,
+        "kljuc_razvijalca": 6668230,
+        "razvijalec": "NoWay Studio"
+    },
+    {
+        "kljuc_igre": 13368,
+        "kljuc_razvijalca": 6668302,
+        "razvijalec": "Design Factory"
+    },
+    {
+        "kljuc_igre": 118188,
+        "kljuc_razvijalca": 6668447,
+        "razvijalec": "Warm Lamp Games"
+    },
+    {
+        "kljuc_igre": 9573,
+        "kljuc_razvijalca": 6668542,
+        "razvijalec": "BlueEagle Productions"
+    },
+    {
+        "kljuc_igre": 5799,
+        "kljuc_razvijalca": 6668667,
+        "razvijalec": "Rockstar Vienna"
+    },
+    {
+        "kljuc_igre": 50068,
+        "kljuc_razvijalca": 6668686,
+        "razvijalec": "Chime"
+    },
+    {
+        "kljuc_igre": 16194,
+        "kljuc_razvijalca": 6668802,
+        "razvijalec": "GameCO Studios"
+    },
+    {
+        "kljuc_igre": 7351,
+        "kljuc_razvijalca": 6668865,
+        "razvijalec": "H.I.C."
+    },
+    {
+        "kljuc_igre": 116017,
+        "kljuc_razvijalca": 6668968,
+        "razvijalec": "Blue Manchu"
+    },
+    {
+        "kljuc_igre": 7398,
+        "kljuc_razvijalca": 6669014,
+        "razvijalec": "Propaganda Games"
+    },
+    {
+        "kljuc_igre": 95490,
+        "kljuc_razvijalca": 6669019,
+        "razvijalec": "SureAI"
+    },
+    {
+        "kljuc_igre": 118485,
+        "kljuc_razvijalca": 6669160,
+        "razvijalec": "Blue Wizard Digital"
+    },
+    {
+        "kljuc_igre": 11,
+        "kljuc_razvijalca": 6669167,
+        "razvijalec": "Electronic Arts Redwood Shores Studio"
+    },
+    {
+        "kljuc_igre": 78335,
+        "kljuc_razvijalca": 6669229,
+        "razvijalec": "Gargoyle Mechanics"
+    },
+    {
+        "kljuc_igre": 78632,
+        "kljuc_razvijalca": 6669264,
+        "razvijalec": "Badfly Interactive"
+    },
+    {
+        "kljuc_igre": 7322,
+        "kljuc_razvijalca": 6669334,
+        "razvijalec": "Ubisoft Annecy"
+    },
+    {
+        "kljuc_igre": 79071,
+        "kljuc_razvijalca": 6669337,
+        "razvijalec": "CtrlMovie"
+    },
+    {
+        "kljuc_igre": 891,
+        "kljuc_razvijalca": 6669371,
+        "razvijalec": "Eidos Montréal"
+    },
+    {
+        "kljuc_igre": 117541,
+        "kljuc_razvijalca": 6669438,
+        "razvijalec": "Expansive Worlds"
+    },
+    {
+        "kljuc_igre": 80222,
+        "kljuc_razvijalca": 6669614,
+        "razvijalec": "The Deep End Games"
+    },
+    {
+        "kljuc_igre": 4542,
+        "kljuc_razvijalca": 66610073,
+        "razvijalec": "Team Silent"
+    },
+    {
+        "kljuc_igre": 12474,
+        "kljuc_razvijalca": 66610218,
+        "razvijalec": "Index+"
+    },
+    {
+        "kljuc_igre": 104432,
+        "kljuc_razvijalca": 66610608,
+        "razvijalec": "RedBedlam"
+    },
+    {
+        "kljuc_igre": 72891,
+        "kljuc_razvijalca": 66610690,
+        "razvijalec": "Phosphor Games"
+    },
+    {
+        "kljuc_igre": 17105,
+        "kljuc_razvijalca": 66610725,
+        "razvijalec": "Bend Studio"
+    },
+    {
+        "kljuc_igre": 115348,
+        "kljuc_razvijalca": 66610816,
+        "razvijalec": "Neko Climax Studios"
+    },
+    {
+        "kljuc_igre": 240,
+        "kljuc_razvijalca": 66610852,
+        "razvijalec": "Iguana UK"
+    },
+    {
+        "kljuc_igre": 2770,
+        "kljuc_razvijalca": 66610891,
+        "razvijalec": "Raster Productions"
+    },
+    {
+        "kljuc_igre": 86261,
+        "kljuc_razvijalca": 66611184,
+        "razvijalec": "Deck Nine"
+    },
+    {
+        "kljuc_igre": 5582,
+        "kljuc_razvijalca": 66611252,
+        "razvijalec": "SCE Studio Cambridge"
+    },
+    {
+        "kljuc_igre": 11943,
+        "kljuc_razvijalca": 66611679,
+        "razvijalec": "Tecmo Koei"
+    },
+    {
+        "kljuc_igre": 11218,
+        "kljuc_razvijalca": 66611698,
+        "razvijalec": "Hardlight"
+    },
+    {
+        "kljuc_igre": 527,
+        "kljuc_razvijalca": 66611894,
+        "razvijalec": "HexaDrive"
+    },
+    {
+        "kljuc_igre": 5163,
+        "kljuc_razvijalca": 66611949,
+        "razvijalec": "Climax Solent"
+    },
+    {
+        "kljuc_igre": 118000,
+        "kljuc_razvijalca": 66612139,
+        "razvijalec": "Gunfire Games"
+    },
+    {
+        "kljuc_igre": 5844,
+        "kljuc_razvijalca": 66612147,
+        "razvijalec": "Gray Matter Interactive Studios"
+    },
+    {
+        "kljuc_igre": 23030,
+        "kljuc_razvijalca": 66612416,
+        "razvijalec": "Infinitap Games"
+    },
+    {
+        "kljuc_igre": 40443,
+        "kljuc_razvijalca": 66612557,
+        "razvijalec": "Wraith Corporation"
+    },
+    {
+        "kljuc_igre": 13191,
+        "kljuc_razvijalca": 66612806,
+        "razvijalec": "Acclaim Studios Teesside"
+    },
+    {
+        "kljuc_igre": 3602,
+        "kljuc_razvijalca": 66612815,
+        "razvijalec": "Tigon Studios"
+    },
+    {
+        "kljuc_igre": 14131,
+        "kljuc_razvijalca": 66612958,
+        "razvijalec": "Tycoon"
+    },
+    {
+        "kljuc_igre": 404,
+        "kljuc_razvijalca": 66612969,
+        "razvijalec": "Tremor Entertainment"
+    },
+    {
+        "kljuc_igre": 7722,
+        "kljuc_razvijalca": 66612992,
+        "razvijalec": "HIP Games"
+    },
+    {
+        "kljuc_igre": 93917,
+        "kljuc_razvijalca": 66613294,
+        "razvijalec": "VCA Interactive"
+    },
+    {
+        "kljuc_igre": 8125,
+        "kljuc_razvijalca": 66613910,
+        "razvijalec": "DiezelPower"
+    },
+    {
+        "kljuc_igre": 6319,
+        "kljuc_razvijalca": 66613940,
+        "razvijalec": "Mercury Steam Entertainment"
+    },
+    {
+        "kljuc_igre": 124822,
+        "kljuc_razvijalca": 66614023,
+        "razvijalec": "Painted Black Games"
+    },
+    {
+        "kljuc_igre": 31868,
+        "kljuc_razvijalca": 66614051,
+        "razvijalec": "Ideaworks Game Studio"
+    },
+    {
+        "kljuc_igre": 97779,
+        "kljuc_razvijalca": 66614086,
+        "razvijalec": "Balcony Team"
+    },
+    {
+        "kljuc_igre": 9858,
+        "kljuc_razvijalca": 66614173,
+        "razvijalec": "Ikusabune Inc."
+    },
+    {
+        "kljuc_igre": 805,
+        "kljuc_razvijalca": 66614250,
+        "razvijalec": "Blue Omega Entertainment"
+    },
+    {
+        "kljuc_igre": 8087,
+        "kljuc_razvijalca": 66614283,
+        "razvijalec": "Innerloop Studios"
+    },
+    {
+        "kljuc_igre": 115632,
+        "kljuc_razvijalca": 66614363,
+        "razvijalec": "Nine Dots Studio"
+    },
+    {
+        "kljuc_igre": 8076,
+        "kljuc_razvijalca": 66614845,
+        "razvijalec": "Capcom Game Studio Vancouver"
+    },
+    {
+        "kljuc_igre": 53510,
+        "kljuc_razvijalca": 66614952,
+        "razvijalec": "Weappy Studio"
+    },
+    {
+        "kljuc_igre": 101756,
+        "kljuc_razvijalca": 66615002,
+        "razvijalec": "Inscape"
+    },
+    {
+        "kljuc_igre": 12963,
+        "kljuc_razvijalca": 66615163,
+        "razvijalec": "Rebellion Derby"
+    },
+    {
+        "kljuc_igre": 33265,
+        "kljuc_razvijalca": 66615174,
+        "razvijalec": "Crispy's!"
+    },
+    {
+        "kljuc_igre": 8523,
+        "kljuc_razvijalca": 66615187,
+        "razvijalec": "Guildford Studio"
+    },
+    {
+        "kljuc_igre": 3332,
+        "kljuc_razvijalca": 66615435,
+        "razvijalec": "Climax London"
+    },
+    {
+        "kljuc_igre": 103888,
+        "kljuc_razvijalca": 66615447,
+        "razvijalec": "Plastic Reality Technologies"
+    },
+    {
+        "kljuc_igre": 109852,
+        "kljuc_razvijalca": 66615740,
+        "razvijalec": "Toadman Interactive"
+    },
+    {
+        "kljuc_igre": 106195,
+        "kljuc_razvijalca": 66615940,
+        "razvijalec": "RYM GAMES"
+    },
+    {
+        "kljuc_igre": 13895,
+        "kljuc_razvijalca": 66616057,
+        "razvijalec": "Virgin Interactive Entertainment"
+    },
+    {
+        "kljuc_igre": 11156,
+        "kljuc_razvijalca": 66616060,
+        "razvijalec": "Möbius Entertainment"
+    },
+    {
+        "kljuc_igre": 12705,
+        "kljuc_razvijalca": 66617227,
+        "razvijalec": "Crowbar Collective"
+    },
+    {
+        "kljuc_igre": 110153,
+        "kljuc_razvijalca": 66617236,
+        "razvijalec": "D'Avekki Studios Ltd"
+    },
+    {
+        "kljuc_igre": 112431,
+        "kljuc_razvijalca": 66620686,
+        "razvijalec": "Kverta"
+    },
+    {
+        "kljuc_igre": 112524,
+        "kljuc_razvijalca": 66620693,
+        "razvijalec": "Honey Parade Games"
+    },
+    {
+        "kljuc_igre": 77002,
+        "kljuc_razvijalca": 66620762,
+        "razvijalec": "Tantalus Entertainment"
+    },
+    {
+        "kljuc_igre": 112935,
+        "kljuc_razvijalca": 66620909,
+        "razvijalec": "Oscar Brittain"
+    },
+    {
+        "kljuc_igre": 113176,
+        "kljuc_razvijalca": 66621074,
+        "razvijalec": "Beautiful Glitch"
+    },
+    {
+        "kljuc_igre": 11812,
+        "kljuc_razvijalca": 66622494,
+        "razvijalec": "Saber Interactive Russia"
+    },
+    {
+        "kljuc_igre": 16483,
+        "kljuc_razvijalca": 66623833,
+        "razvijalec": "Machine Games"
+    },
+    {
+        "kljuc_igre": 118382,
+        "kljuc_razvijalca": 66623937,
+        "razvijalec": "Bloober Team SA"
+    },
+    {
+        "kljuc_igre": 11023,
+        "kljuc_razvijalca": 66624068,
+        "razvijalec": "Frogwares Game Development Studio"
+    },
+    {
+        "kljuc_igre": 118973,
+        "kljuc_razvijalca": 66624340,
+        "razvijalec": "Illusion"
+    },
+    {
+        "kljuc_igre": 119300,
+        "kljuc_razvijalca": 66624508,
+        "razvijalec": "Invader Studios"
+    },
+    {
+        "kljuc_igre": 119355,
+        "kljuc_razvijalca": 66624533,
+        "razvijalec": "Studio Gamaii"
+    },
+    {
+        "kljuc_igre": 72754,
+        "kljuc_razvijalca": 66624559,
+        "razvijalec": "Frontwing"
+    },
+    {
+        "kljuc_igre": 122582,
+        "kljuc_razvijalca": 66626415,
+        "razvijalec": "WMY Studio"
+    },
+    {
+        "kljuc_igre": 12207,
+        "kljuc_razvijalca": 66627419,
+        "razvijalec": "BioWare Edmonton"
+    },
+    {
+        "kljuc_igre": 124847,
+        "kljuc_razvijalca": 66627507,
+        "razvijalec": "Tendogames"
+    },
+    {
+        "kljuc_igre": 5166,
+        "kljuc_razvijalca": 66627915,
+        "razvijalec": "Sony Bend"
+    },
+    {
+        "kljuc_igre": 16404,
+        "kljuc_razvijalca": 66628167,
+        "razvijalec": "The Climax Group"
+    },
+    {
+        "kljuc_igre": 13239,
+        "kljuc_razvijalca": 66629901,
+        "razvijalec": "Sierra Northwest"
+    },
+    {
+        "kljuc_igre": 3779,
+        "kljuc_razvijalca": 66630140,
+        "razvijalec": "Reactor Zero"
+    },
+    {
+        "kljuc_igre": 16612,
+        "kljuc_razvijalca": 66630264,
+        "razvijalec": "WZOGI"
+    },
+    {
+        "kljuc_igre": 16525,
+        "kljuc_razvijalca": 66630308,
+        "razvijalec": "EA Digital Illusions CE AB"
+    },
+    {
+        "kljuc_igre": 11068,
+        "kljuc_razvijalca": 66630476,
+        "razvijalec": "Triptych Games"
+    },
+    {
+        "kljuc_igre": 5191,
+        "kljuc_razvijalca": 66630853,
+        "razvijalec": "Homegrown Games"
+    },
+    {
+        "kljuc_igre": 22009,
+        "kljuc_razvijalca": 66631534,
+        "razvijalec": "Ubisoft Eood"
+    },
+    {
+        "kljuc_igre": 16414,
+        "kljuc_razvijalca": 66632097,
+        "razvijalec": "Project Venus"
+    },
+    {
+        "kljuc_igre": 7843,
+        "kljuc_razvijalca": 66633673,
+        "razvijalec": "EA Digital Illusions"
+    },
+    {
+        "kljuc_igre": 4585,
+        "kljuc_razvijalca": 66633822,
+        "razvijalec": "Logicware"
+    },
+    {
+        "kljuc_igre": 3989,
+        "kljuc_razvijalca": 66633928,
+        "razvijalec": "Ubisoft Paris Studios"
+    },
+    {
+        "kljuc_igre": 15774,
+        "kljuc_razvijalca": 66634124,
+        "razvijalec": "Lexis Numérique"
+    },
+    {
+        "kljuc_igre": 3475,
+        "kljuc_razvijalca": 66634796,
+        "razvijalec": "Eurocom Developments"
+    },
+    {
+        "kljuc_igre": 12107,
+        "kljuc_razvijalca": 66635434,
+        "razvijalec": "Entersphere"
+    },
+    {
+        "kljuc_igre": 8704,
+        "kljuc_razvijalca": 66635805,
+        "razvijalec": "38 Studios"
+    },
+    {
+        "kljuc_igre": 15879,
+        "kljuc_razvijalca": 66636222,
+        "razvijalec": "Vatra Games"
+    },
+    {
+        "kljuc_igre": 8526,
+        "kljuc_razvijalca": 66636233,
+        "razvijalec": "Index"
+    },
+    {
+        "kljuc_igre": 12986,
+        "kljuc_razvijalca": 66636480,
+        "razvijalec": "Electronic Arts Chicago"
+    },
+    {
+        "kljuc_igre": 70,
+        "kljuc_razvijalca": 66637750,
+        "razvijalec": "Funcom Oslo"
+    },
+    {
+        "kljuc_igre": 13969,
+        "kljuc_razvijalca": 66638434,
+        "razvijalec": "The Mauretania Import Export Company"
+    },
+    {
+        "kljuc_igre": 6601,
+        "kljuc_razvijalca": 66638457,
+        "razvijalec": "DreamOn Studio"
+    },
+    {
+        "kljuc_igre": 12444,
+        "kljuc_razvijalca": 66638622,
+        "razvijalec": "Climax LA"
+    },
+    {
+        "kljuc_igre": 20356,
+        "kljuc_razvijalca": 66640047,
+        "razvijalec": "Wanadoo Edition"
+    },
+    {
+        "kljuc_igre": 13499,
+        "kljuc_razvijalca": 66640602,
+        "razvijalec": "WorkJam"
+    },
+    {
+        "kljuc_igre": 94803,
+        "kljuc_razvijalca": 66640862,
+        "razvijalec": "Kuju London"
+    },
+    {
+        "kljuc_igre": 33405,
+        "kljuc_razvijalca": 66641334,
+        "razvijalec": "caiys"
+    },
+    {
+        "kljuc_igre": 3949,
+        "kljuc_razvijalca": 66641538,
+        "razvijalec": "Rockstar Canada"
+    },
+    {
+        "kljuc_igre": 6319,
+        "kljuc_razvijalca": 66641981,
+        "razvijalec": "Alchemic Productions"
+    },
+    {
+        "kljuc_igre": 32046,
+        "kljuc_razvijalca": 66642884,
+        "razvijalec": "Unbisoft Annecy"
+    },
+    {
+        "kljuc_igre": 33051,
+        "kljuc_razvijalca": 66642946,
+        "razvijalec": "House Marque"
+    },
+    {
+        "kljuc_igre": 11302,
+        "kljuc_razvijalca": 66643289,
+        "razvijalec": "Konami Computer Entertainment Chicago"
+    },
+    {
+        "kljuc_igre": 13140,
+        "kljuc_razvijalca": 66643290,
+        "razvijalec": "Konami Computer Entertainment Sapporo"
+    },
+    {
+        "kljuc_igre": 5612,
+        "kljuc_razvijalca": 66643443,
+        "razvijalec": "Midway Studios Austin"
+    },
+    {
+        "kljuc_igre": 12156,
+        "kljuc_razvijalca": 66643529,
+        "razvijalec": "Pluto 13"
+    },
+    {
+        "kljuc_igre": 2603,
+        "kljuc_razvijalca": 66643674,
+        "razvijalec": "Feral Interactive (Mac)"
+    },
+    {
+        "kljuc_igre": 2402,
+        "kljuc_razvijalca": 66643688,
+        "razvijalec": "Rockstar North / Toronto"
+    },
+    {
+        "kljuc_igre": 108,
+        "kljuc_razvijalca": 66643691,
+        "razvijalec": "Feral Interactive (Mac/Linux)"
+    },
+    {
+        "kljuc_igre": 12772,
+        "kljuc_razvijalca": 66643694,
+        "razvijalec": "Ubisoft  Shanghaï"
+    },
+    {
+        "kljuc_igre": 972,
+        "kljuc_razvijalca": 66643710,
+        "razvijalec": "Codemasters Action Studio"
+    },
+    {
+        "kljuc_igre": 10401,
+        "kljuc_razvijalca": 66643718,
+        "razvijalec": "Bigmoon Studios"
+    },
+    {
+        "kljuc_igre": 2603,
+        "kljuc_razvijalca": 66643744,
+        "razvijalec": "Eidos-Montréal"
+    },
+    {
+        "kljuc_igre": 2603,
+        "kljuc_razvijalca": 66643745,
+        "razvijalec": "Nixxes"
+    },
+    {
+        "kljuc_igre": 8968,
+        "kljuc_razvijalca": 66643752,
+        "razvijalec": "Med-Art"
+    },
+    {
+        "kljuc_igre": 11185,
+        "kljuc_razvijalca": 66643764,
+        "razvijalec": "S.L."
+    },
+    {
+        "kljuc_igre": 4186,
+        "kljuc_razvijalca": 66643775,
+        "razvijalec": "and Ubisoft Shanghai"
+    },
+    {
+        "kljuc_igre": 12632,
+        "kljuc_razvijalca": 66643831,
+        "razvijalec": "Trilobyte Games"
+    },
+    {
+        "kljuc_igre": 68288,
+        "kljuc_razvijalca": 66643940,
+        "razvijalec": "Spike Chunsoft Co."
+    },
+    {
+        "kljuc_igre": 73487,
+        "kljuc_razvijalca": 66644067,
+        "razvijalec": "Behaviour Interactive Inc."
+    },
+    {
+        "kljuc_igre": 117548,
+        "kljuc_razvijalca": 66644480,
+        "razvijalec": "APLUS Co."
+    },
+    {
+        "kljuc_igre": 105425,
+        "kljuc_razvijalca": 66644539,
+        "razvijalec": "Imaginati Studios"
+    },
+    {
+        "kljuc_igre": 11073,
+        "kljuc_razvijalca": 66644579,
+        "razvijalec": "Blind Squirrel Games"
+    },
+    {
+        "kljuc_igre": 914,
+        "kljuc_razvijalca": 66644629,
+        "razvijalec": "T3Entertainment"
+    },
+    {
+        "kljuc_igre": 76968,
+        "kljuc_razvijalca": 66644672,
+        "razvijalec": "Milan Toth"
+    },
+    {
+        "kljuc_igre": 14053,
+        "kljuc_razvijalca": 66645012,
+        "razvijalec": "Fire Falcom"
+    },
+    {
+        "kljuc_igre": 7322,
+        "kljuc_razvijalca": 66645040,
+        "razvijalec": "Ubisoft Studios"
+    },
+    {
+        "kljuc_igre": 16229,
+        "kljuc_razvijalca": 66645062,
+        "razvijalec": "KaiPrime"
+    },
+    {
+        "kljuc_igre": 34457,
+        "kljuc_razvijalca": 66645118,
+        "razvijalec": "Odium team"
+    },
+    {
+        "kljuc_igre": 90687,
+        "kljuc_razvijalca": 66645295,
+        "razvijalec": "League of Sweat"
+    },
+    {
+        "kljuc_igre": 8049,
+        "kljuc_razvijalca": 66645442,
+        "razvijalec": "Silicon Ice Development"
+    },
+    {
+        "kljuc_igre": 8049,
+        "kljuc_razvijalca": 66645443,
+        "razvijalec": "FrozenSand"
+    },
+    {
+        "kljuc_igre": 7324,
+        "kljuc_razvijalca": 66645625,
+        "razvijalec": "Midway Studios -- Chicago"
+    },
+    {
+        "kljuc_igre": 40751,
+        "kljuc_razvijalca": 66645946,
+        "razvijalec": "Dreadlocks"
+    },
+    {
+        "kljuc_igre": 8115,
+        "kljuc_razvijalca": 66645948,
+        "razvijalec": "Dark Energy Digital"
+    },
+    {
+        "kljuc_igre": 858,
+        "kljuc_razvijalca": 66645954,
+        "razvijalec": "Bungie Software Products"
+    },
+    {
+        "kljuc_igre": 10573,
+        "kljuc_razvijalca": 66645967,
+        "razvijalec": "WizardWorks Group"
+    },
+    {
+        "kljuc_igre": 12475,
+        "kljuc_razvijalca": 66646060,
+        "razvijalec": "Deep Space"
+    },
+    {
+        "kljuc_igre": 850,
+        "kljuc_razvijalca": 66646122,
+        "razvijalec": "Namco Bandai Games America"
+    },
+    {
+        "kljuc_igre": 8108,
+        "kljuc_razvijalca": 66647022,
+        "razvijalec": "Trashmasters"
+    },
+    {
+        "kljuc_igre": 86,
+        "kljuc_razvijalca": 66647239,
+        "razvijalec": "Ready at Dawn Studios"
+    },
+    {
+        "kljuc_igre": 15239,
+        "kljuc_razvijalca": 66647393,
+        "razvijalec": "G&D"
+    },
+    {
+        "kljuc_igre": 121258,
+        "kljuc_razvijalca": 66647589,
+        "razvijalec": "Rockstar New England"
+    },
+    {
+        "kljuc_igre": 14429,
+        "kljuc_razvijalca": 66647593,
+        "razvijalec": "Playlogic Game Factory"
+    },
+    {
+        "kljuc_igre": 116503,
+        "kljuc_razvijalca": 66648085,
+        "razvijalec": "GUILD STUDIO"
+    },
+    {
+        "kljuc_igre": 17459,
+        "kljuc_razvijalca": 66648156,
+        "razvijalec": "Black Lion Studios"
+    },
+    {
+        "kljuc_igre": 4978,
+        "kljuc_razvijalca": 66648590,
+        "razvijalec": "Io-Interactive"
+    },
+    {
+        "kljuc_igre": 8154,
+        "kljuc_razvijalca": 66649010,
+        "razvijalec": "Black Element"
+    },
+    {
+        "kljuc_igre": 2468,
+        "kljuc_razvijalca": 66649023,
+        "razvijalec": "Spicy Horse Games"
+    },
+    {
+        "kljuc_igre": 5255,
+        "kljuc_razvijalca": 66649394,
+        "razvijalec": "Apogee Entertainment"
+    },
+    {
+        "kljuc_igre": 4036,
+        "kljuc_razvijalca": 66650195,
+        "razvijalec": "TEST DEVELOPER"
+    },
+    {
+        "kljuc_igre": 3603,
+        "kljuc_razvijalca": 66650333,
+        "razvijalec": "Starbreeze Studios and Tigon Studios"
+    },
+    {
+        "kljuc_igre": 90065,
+        "kljuc_razvijalca": 66650879,
+        "razvijalec": "Tequila Works / Abstraction Games"
+    },
+    {
+        "kljuc_igre": 24481,
+        "kljuc_razvijalca": 66650952,
+        "razvijalec": "Deep Silver Volition / High Voltage Software"
+    },
+    {
+        "kljuc_igre": 755,
+        "kljuc_razvijalca": 66650981,
+        "razvijalec": "RavenSoft / id Software"
+    },
+    {
+        "kljuc_igre": 29318,
+        "kljuc_razvijalca": 66656909,
+        "razvijalec": "Mercenary Technology"
+    },
+    {
+        "kljuc_igre": 12155,
+        "kljuc_razvijalca": 66657120,
+        "razvijalec": "Darkside Game Studios"
+    },
+    {
+        "kljuc_igre": 7866,
+        "kljuc_razvijalca": 66657124,
+        "razvijalec": "Electronic Arts DICE"
+    },
+    {
+        "kljuc_igre": 5132,
+        "kljuc_razvijalca": 66657504,
+        "razvijalec": "Midway Studios Los Angeles"
+    },
+    {
+        "kljuc_igre": 121258,
+        "kljuc_razvijalca": 66657676,
+        "razvijalec": "Rockstar Interactive India"
+    },
+    {
+        "kljuc_igre": 13479,
+        "kljuc_razvijalca": 66657702,
+        "razvijalec": "Tranji Studios"
+    },
+    {
+        "kljuc_igre": 85,
+        "kljuc_razvijalca": 66657778,
+        "razvijalec": "SCE Studio Santa Monica"
+    },
+    {
+        "kljuc_igre": 5647,
+        "kljuc_razvijalca": 66657793,
+        "razvijalec": "Hwy1 Productions"
+    }
+]
