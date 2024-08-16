@@ -8,7 +8,7 @@ from orodja import pripravi_imenik, shrani_spletno_stran
 
 #zajela bom prvih 20 strani tistih iger, ki imajo ESRB = MATURE
 
-st_strani = 26
+st_strani = 20
 for stran in range(1, st_strani + 1):
     url = f"https://gamesdb.launchbox-app.com/games/results/%7C{stran}?esrb=mature"
     odziv = requests.get(url)
@@ -29,7 +29,7 @@ def odpri_spletne_strani(st_strani):
 
 import time
 def oblikuj_spletne_strani(st_strani):
-    stevec = 2001
+    stevec = 1
     for del_url in odpri_spletne_strani(st_strani):
         url = f'https://gamesdb.launchbox-app.com{del_url}'
         shrani_kot = f'spletne_strani/igra_{stevec}.html'
@@ -37,4 +37,4 @@ def oblikuj_spletne_strani(st_strani):
         stevec += 1
         #time.sleep(1)
 
-oblikuj_spletne_strani(26)
+oblikuj_spletne_strani(20)
