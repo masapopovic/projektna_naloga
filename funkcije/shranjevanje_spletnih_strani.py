@@ -29,13 +29,12 @@ def odpri_spletne_strani(st_strani):
 
 import time
 def oblikuj_spletne_strani(st_strani):
-    #stevec = 1
+    stevec = 1
     for del_url in odpri_spletne_strani(st_strani):
         url = f'https://gamesdb.launchbox-app.com{del_url}'
         shrani_kot = f'spletne_strani/igra_{stevec}.html'
         shrani_spletno_stran(url, shrani_kot)
-        #stevec += 1
+        stevec += 1
         time.sleep(1)
-    #print(stevec - 1)
 
 oblikuj_spletne_strani(20)
