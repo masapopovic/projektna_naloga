@@ -41,7 +41,7 @@ def uredi_zanre(seznam):
     vzorec = re.compile(r'<a href=".*?">(.*?)</a>',
                                               flags=re.DOTALL)
     for el in vzorec.findall(seznam):
-        zanri.append(el)
+        zanri.append(html.unescape(el))
     return zanri
   
 
