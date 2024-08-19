@@ -17,7 +17,7 @@ def uredi_igre_v_glavno_tabelo():
             igre.append(igra)
     return igre
 igre = uredi_igre_v_glavno_tabelo()
-#print(igre)
+
 
 
 def uredi_igre_v_manjso_tabelo(st):
@@ -33,7 +33,6 @@ def uredi_igre_v_manjso_tabelo(st):
 
 vse_igre = uredi_igre_v_manjso_tabelo(2001)
 
-#print(vse_igre)
 
 
 def uredi_gnezdene_podatke_v_tabele(igre):

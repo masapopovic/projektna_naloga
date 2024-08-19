@@ -5,13 +5,9 @@ import html
 from collections import OrderedDict
 
 
-
-#with open('spletne_strani/igra_307.html', encoding='utf-8') as file:
-#    prebrano = file.read()
-
 vzorec_igre_na_svoji_spletni_strani = re.compile(
     r'<span b-12vzocx8j4 id="yourRatingShort">(?P<ocena>.*?)</span>.*?'
-    r'data-gamekey="(?P<kljuc_igre>\d+?)".*?'             #če kaj ne dela preveri to
+    r'data-gamekey="(?P<kljuc_igre>\d+?)".*?'             
     r'<h1 b-12vzocx8j4>(?P<ime>.*?)</h1>.*?'
     r'<span b-n3m1sg1670>Release Date</span>.*?b-n3m1sg1670 class="cardDetails.*?">(?P<leto>.*?)<.*?'
     r'<span b-n3m1sg1670>Platform</span>.*?<a class="cardDetails" href=.*?">(?P<platforma>.*?)</a>.*?'
@@ -29,8 +25,6 @@ vzorec_zaloznikov = re.compile(r'''<h5 b-12vzocx8j4>Publishers</h5>.*?(?P<zalozn
                                  flags=re.DOTALL)
 vzorec_zaloznika = re.compile(r'<a href=".*?/(?P<kljuc_zaloznika>\d+?)-.*?">(?P<zaloznik>.*?)</a>',
                                               flags=re.DOTALL)
-
-#print(re.findall(vzorec_zaloznikov, prebrano))
 
 
 def pocisti_znake(besedilo):
